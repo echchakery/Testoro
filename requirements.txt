@@ -2,6 +2,8 @@ numpy==2.2.6
 matplotlib==3.10.5
 kiwisolver==1.4.8
 pillow==11.3.0
+pandas
+streamlit
 openai-whisper==20250625
 accelerate==1.10.0
 acres==0.5.0
@@ -235,6 +237,7 @@ weasel==0.4.1
 wheel==0.45.1
 wrapt==1.17.3
 xlsxwriter==3.2.5
+
 
 
 
