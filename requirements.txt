@@ -104,7 +104,6 @@ ninja==1.13.0
 nipype==1.10.0
 nltk==3.9.1
 numba==0.61.2
-numpy==1.26.4
 openai-whisper==20250625
 opencv-python-headless==4.12.0.88
 openpyxl==3.1.5
@@ -231,4 +230,5 @@ weasel==0.4.1
 wheel==0.45.1
 wrapt==1.17.3
 xlsxwriter==3.2.5
+
 
