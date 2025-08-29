@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-08-28T16:47:02.564432",
+  "job_id": "ee12b2d3-19c6-419f-98fd-d6597e48f5fb",
+  "resume_file": "__CV_54dbcf89.pdf",
+  "original_filename": "__CV.pdf",
+  "match_score": {
+    "file": "__CV_54dbcf89.pdf",
+    "summary": "Je n'ai trouvé aucune information personnelle dans le CV fourni. Expérience professionnelle: Voici les expériences professionnelles de Chakerysalma : - Ingénieur de données (Power BI, Tableau) - Analyste de processus (process Mining) - Développeur Web (HTML, CSS, Bootstrap) - Technologie Big Data (Hadoop, Hive, Pig, HBase, Elasticsearch) - Consultant en informatique (Orange Digital Center Machine Learning-&gt) - Chargé de projet (Orange digital Center Tableau 365datascience) Compétences: mentionnée dans un CV sous forme de mots-clés, en évitant les répétitions et en excluant les compétitions déjà associées aux projets listés précédemment : - Langages de programmation : - Python, Javal, JEE, C, C++ - Machine Learning - Visualisation des donnees : - Power BI - Tableau - SQL - Oracle, MySQL - PLISQL - HTML - CSS - Bootstrap - Analyse des processus : - Process Mining (Prom) - Technologies Big Data : - Hadoop - Hive-Pig - HBase - Elasticsearch Formation:  1. Baccalauréat en Sciences Mathématiques (année non spécifiée) 2. Diplôme d'Études Universitaires Générales (DEUG) en Langues (Anglais, Français, Arabe) 3. Français 4. Arabe Projets réalisés:  - Amélioration de l'efficacité de la sécurité et de la productivité dans les entreprises. - Conception et développement d'un système de recommandation de films pour améliorer l'accès à l'information. - Création d'une plateforme de e-commerce pour faciliter les ventes en ligne. - Mise en place de solutions de suivi des performances et des performances pour augmenter la visibilité et la qualité des produits.",
+    "semantic": 0.2517775595188141,
+    "skills": 1.0,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 1.0,
+    "llama": 0.9,
+    "llama_expl": "Le CV correspond bien à l'offre d'emploi de data analyst, car il mentionne les compétences requises telles que Python, Power BI et Tableau, ainsi que des langues appropriées. Cependant, il manque des informations sur l'expérience professionnelle et le diplôme requis.",
+    "final": 0.9,
+    "classification": "Non classé",
+    "original_filename": "__CV.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "power bi",
+      "python",
+      "tableau"
+    ],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "power bi,python,tableau",
+    "matched_skills_list": [
+      "power bi",
+      "python",
+      "tableau"
+    ],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV correspond bien à l'offre d'emploi de data analyst, car il mentionne les compétences requises telles que Python, Power BI et Tableau, ainsi que des langues appropriées. Cependant, il manque des informations sur l'expérience professionnelle et le diplôme requis."
+  }
+}

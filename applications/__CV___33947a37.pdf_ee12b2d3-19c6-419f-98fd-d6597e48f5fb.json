@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-08-28T16:51:40.559603",
+  "job_id": "ee12b2d3-19c6-419f-98fd-d6597e48f5fb",
+  "resume_file": "__CV___33947a37.pdf",
+  "original_filename": "__CV__.pdf",
+  "match_score": {
+    "file": "__CV___33947a37.pdf",
+    "summary": "Salma Ech-Chakery, , Casablanca, echchakerysalma@gmail.com, 06.32.73.50.90. Expérience professionnelle:  - Développeur Web, [Entreprise non spécifiée] - [Autres postes non mentionnés] Compétences: mentionnée dans un CV sous forme de mots-clés, en évitant les répétitions et en excluant les compétitions déjà associées aux projets listés précédemment : - Langages de programmation : Python, Javal, JEE, Java, Enterprise Edition, C++ - Intelligence Artificielle : Machine Learning, ML - Visualisation donnees : Data Visualization, Data Viz, Power BI, Tableau - Analyse processus : Process Mining, Prom - Developpement Web : HTML, CSS, Bootstrap - Ponctualité : Serieuse dynamique Formation:  1. Diplôme d'Études Universitaires Générales (DEUG) en Data Science et Data Analytics (C++) - Année : 2022 2. Baccalauréat en Sciences Mathématiques et Informatiques (EMSI) - Spécialisées : Non précisé Langues: parlées : - Anglais - Français - Arabe Projets réalisés:  - Amélioration de la qualité des processus d'analyse pour améliorer l'efficacité des opérations. - Création d'un système de gestion de projet pour faciliter l'accès aux ressources informatiques.",
+    "semantic": 0.43013471364974976,
+    "skills": 1.0,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 1.0,
+    "llama": 0.6,
+    "llama_expl": "Le CV correspond partiellement à l'offre d'emploi, car il mentionne les compétences requises telles que Python, Power BI et Tableau, ainsi que les langues requises (français et anglais). Cependant, le CV ne mentionne pas explicitement d'expérience dans le domaine de la data science ou de l'analyse de données, et le diplôme requis (master) n'est pas spécifié.",
+    "final": 0.5675,
+    "classification": "Non classé",
+    "original_filename": "__CV__.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "python",
+      "tableau",
+      "power bi"
+    ],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "power bi,python,tableau",
+    "matched_skills_list": [
+      "python",
+      "tableau",
+      "power bi"
+    ],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV correspond partiellement à l'offre d'emploi, car il mentionne les compétences requises telles que Python, Power BI et Tableau, ainsi que les langues requises (français et anglais). Cependant, le CV ne mentionne pas explicitement d'expérience dans le domaine de la data science ou de l'analyse de données, et le diplôme requis (master) n'est pas spécifié."
+  }
+}

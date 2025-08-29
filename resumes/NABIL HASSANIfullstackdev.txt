@@ -1,0 +1,45 @@
+NABIL HASSANI  
+Email: nabil.hassani.dev@gmail.com  
+Phone: +212 664-778899  
+Location: Rabat, Morocco  
+GitHub: github.com/nabilh  
+
+===============================================================================
+OBJECTIVE
+===============================================================================
+Full-stack developer with expertise in Python, JavaScript, and Django. Proven experience building scalable web apps and APIs. Looking to join a dynamic tech company with room for innovation.
+
+===============================================================================
+EXPERIENCE
+===============================================================================
+Software Engineer  
+Digistart, Rabat  
+Mar 2022 – Present  
+- Developed full-stack web applications using Django and React.  
+- Integrated REST APIs and maintained CI/CD pipelines.
+
+Backend Developer (Intern)  
+Inwi, Casablanca  
+Jul 2021 – Feb 2022  
+- Built backend services in Flask for mobile applications.  
+- Implemented JWT authentication and PostgreSQL database schemas.
+
+===============================================================================
+EDUCATION
+===============================================================================
+Engineering Degree – Computer Science  
+INPT Rabat  
+2021
+
+===============================================================================
+SKILLS
+===============================================================================
+- Python, JavaScript, SQL  
+- Django, Flask, React  
+- Git, Docker, CI/CD  
+- MongoDB, PostgreSQL
+
+===============================================================================
+LANGUAGES
+===============================================================================
+Arabic – Native | French – Fluent | English – Fluent

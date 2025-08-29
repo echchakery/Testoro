@@ -1,0 +1,71 @@
+Jane Doe
+New York, NY | janedoe@email.com | (555) 123-4567
+linkedin.com/in/janedoe | github.com/janedoe
+
+Professional Summary
+Quantitative data scientist with 5+ years of experience in financial analytics and machine learning. Proven track record of delivering predictive models for credit risk, portfolio optimization, and market trend forecasting. Strong background in statistics, econometrics, and big data technologies with hands-on experience in Python, SQL, and cloud platforms.
+
+Technical Skills
+Languages: Python, R, SQL, MATLAB
+
+Libraries: pandas, NumPy, scikit-learn, TensorFlow, statsmodels, XGBoost
+
+Tools: Tableau, Power BI, Excel (VBA, Power Pivot), Jupyter
+
+Finance & Data Platforms: Bloomberg, FactSet, Snowflake, AWS S3
+
+Techniques: Time Series Analysis, Risk Modeling, Portfolio Theory, NLP, Regression, Clustering
+
+Education
+M.S. in Data Science
+Columbia University, New York, NY
+Graduated: May 2021
+
+B.S. in Finance and Applied Mathematics
+University of Michigan, Ann Arbor, MI
+Graduated: May 2017
+
+Work Experience
+Data Scientist, Quantitative Research
+Citadel Securities, New York, NY
+Jun 2021 – Present
+
+Developed predictive models for equities trading strategies using historical price and alternative data.
+
+Built time-series forecasting models (ARIMA, Prophet) to predict short-term asset volatility.
+
+Collaborated with traders and portfolio managers to validate and deploy models in production.
+
+Designed an internal dashboard to visualize factor exposures and trading signals using Tableau.
+
+Financial Data Analyst
+Goldman Sachs, New York, NY
+Jul 2017 – May 2021
+
+Analyzed structured and unstructured financial data to assess market risk across multiple portfolios.
+
+Built a Python-based reporting tool to automate VaR and stress test simulations.
+
+Supported risk modeling team in backtesting credit risk models using real-world data.
+
+Presented model insights to senior stakeholders and regulators during quarterly reviews.
+
+Projects
+ETF Portfolio Optimizer
+
+Created a Python-based tool to compute efficient frontiers and optimize ETF allocations using the Markowitz framework.
+
+Integrated real-time data feeds from Yahoo Finance API.
+
+Sentiment-Based Stock Screener
+
+Used NLP on financial news articles and earnings call transcripts to derive sentiment scores.
+
+Built logistic regression and random forest models to test sentiment impact on stock returns.
+
+Certifications
+CFA Level II Passed
+
+AWS Certified Cloud Practitioner
+
+Data Science Professional Certificate – IBM (Coursera)

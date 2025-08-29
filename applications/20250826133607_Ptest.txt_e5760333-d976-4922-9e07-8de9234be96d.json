@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-08-26T13:37:33.225044",
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "resume_file": "20250826133607_Ptest.txt",
+  "original_filename": "Ptest.txt",
+  "match_score": {
+    "file": "20250826133607_Ptest.txt",
+    "summary": "Nadia Benmoussa, 5e annee, habite à Casablanca, Maroc, et peut être contactée par téléphone au 06 65 87 45 23 ou par email à nadia.benmouss@gmail.com. Expérience professionnelle: Voici les expériences professionnelles : - Assistante Marketing, Marjane Holding - Gestionnaire de Stock Label Vie, Mai 2023 - Juillet 2023 Compétences: mentionnées dans le CV sous forme de mots-clés, en évitant les répétitions : - Microsoft 365 - Word - Excel - PowerPoint - Outlook - ERP (SAP) - Logiciels de Design (Photoshop, Canva, Filmora) Formation:  - Baccalauréat Sciences Economiques : Lycée Ibn Batouta Tanger, 2017-2018 - Licence Professionnelle Commerce et Distribution : Ecole Superieure de Technologie Mohammedia, 2022-2023 Langues: parlées selon le CV : 1. Arabe 2. Français 3. Anglais Projets réalisés:  - **Assistante Marketing** : Mise en place de strategies de merchandising, Creation de supports de communication visuelle, Analyse des tendances de consommation, Gestion de la relation client - **Gestion de stock Label Vie** : Assistance et gestion des demandes clients, Traitement des reclamations et fidelisation, Suivi des dossiers et resolution de problemes - **Conseillere en Assurances Wafa Assurance** : Gestion administrative des contrats, Conseils et orientation des clients pour suivre des renouvellements",
+    "semantic": 0.1908603809773922,
+    "skills": 0.2,
+    "experience": 0.0,
+    "education": 0.4,
+    "language": 1.0,
+    "llama": 0.2,
+    "llama_expl": "Le CV ne correspond pas bien à l'offre d'emploi d'aide comptable, car les compétences et expériences présentées sont principalement liées au marketing et au commerce, et non à la comptabilité ou à la gestion financière.",
+    "predicted_class": "Unknown",
+    "class_top_prob": 0.0,
+    "final": 0.2054,
+    "classification": "Unknown",
+    "original_filename": "Ptest.txt",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "organisation"
+    ],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "organisation",
+    "matched_skills_list": [
+      "organisation"
+    ],
+    "class_probs": {
+      "Unknown": 0.0
+    },
+    "matched_education": "bachelor:Licence Fondamentale en Gestion des Entreprises Universite Hassan II Casablanca, Maroc",
+    "matched_education_list": [
+      {
+        "degree": "bachelor",
+        "field": "Licence Fondamentale en Gestion des Entreprises Universite Hassan II Casablanca, Maroc",
+        "year": [
+          "2022",
+          "2023"
+        ]
+      }
+    ],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV ne correspond pas bien à l'offre d'emploi d'aide comptable, car les compétences et expériences présentées sont principalement liées au marketing et au commerce, et non à la comptabilité ou à la gestion financière."
+  }
+}

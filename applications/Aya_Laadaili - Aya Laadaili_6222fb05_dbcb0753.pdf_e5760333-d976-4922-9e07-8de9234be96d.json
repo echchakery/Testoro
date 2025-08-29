@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-08-28T17:03:53.226254",
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "resume_file": "Aya_Laadaili - Aya Laadaili_6222fb05_dbcb0753.pdf",
+  "original_filename": "Aya_Laadaili - Aya Laadaili_6222fb05.pdf",
+  "match_score": {
+    "file": "Aya_Laadaili - Aya Laadaili_6222fb05_dbcb0753.pdf",
+    "summary": "Je n'ai trouvé aucune information personnelle dans le CV fourni. Expérience professionnelle: : - Développeur Web, [Entreprise non spécifiée] - [Autres postes non mentionnées], [Non mentionnés] Compétences: Je ne vois pas d'informations disponibles sur les informations professionnelles.",
+    "semantic": 0.0,
+    "skills": 0.0,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 0.0,
+    "llama": 0.0,
+    "llama_expl": "Aucun CV fourni pour évaluation",
+    "final": 0.0,
+    "classification": "Non classé",
+    "original_filename": "Aya_Laadaili - Aya Laadaili_6222fb05.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [],
+    "matched_languages": []
+  },
+  "match_details": {
+    "languages": [],
+    "languages_str": "",
+    "matched_skills": "",
+    "matched_skills_list": [],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Aucun CV fourni pour évaluation"
+  }
+}

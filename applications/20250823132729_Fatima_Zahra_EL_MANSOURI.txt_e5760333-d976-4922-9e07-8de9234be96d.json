@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-08-23T13:28:44.259860",
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "resume_file": "20250823132729_Fatima_Zahra_EL_MANSOURI.txt",
+  "original_filename": "Fatima Zahra EL MANSOURI.txt",
+  "match_score": {
+    "file": "20250823132729_Fatima_Zahra_EL_MANSOURI.txt",
+    "summary": "Fatima Zahra EL MANSOURI, , Casablanca, fatima.elmansouri@email.com, +212 6 23 45 67 89. Expérience professionnelle:  - Stagiaire Aide Comptable, BENJELLOUN (Casablanca) - Aide comptable (Carrefour) - Gestion de la caisse et accueil des clients Compétences:  - Saisie des factures clients et fournisseurs - Suivi de la tresorerie et rapprochements bancaires - Classement et archivage des pieces comptables - Utilisation du logiciel Sage - Hotesse de caisse (job et d'employiant) Formation:  1. DEUG en Gestion des Entreprises et Administrations (GEA) - Université Hassan II (2021-2023) 2. Baccalaureat Sciences Economiques - Lycee Mohammed V (2020-2021) 3. Option finances et comptabilite - Faculté Hassan II, (en cours) Langues: parlées : - Arabe - Français - Anglais Projets réalisés:  - Amélioration de la sécurité des clients et de la gestion des accueils des clients pour améliorer l'efficacité des opérations financières. - Développement d'un système de gestion financière pour faciliter la planification et la coordination des entreprises.",
+    "semantic": 0.44409516304731367,
+    "skills": 0.6,
+    "experience": 0.0,
+    "education": 0.4,
+    "language": 1.0,
+    "llama": 0.9,
+    "llama_expl": "Le CV correspond très bien à l'offre d'emploi d'aide comptable, car le candidat possède un DEUG en gestion des entreprises et administrations, a une expérience en cabinet comptable et maîtrise les compétences requises telles que la comptabilité générale, la bureautique et l'organisation.",
+    "predicted_class": "Unknown",
+    "class_top_prob": 0.0,
+    "final": 0.9,
+    "classification": "Unknown",
+    "original_filename": "Fatima Zahra EL MANSOURI.txt",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "bureautique",
+      "organisation",
+      "rigueur"
+    ],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "bureautique,organisation,rigueur",
+    "matched_skills_list": [
+      "bureautique",
+      "organisation",
+      "rigueur"
+    ],
+    "class_probs": {
+      "Unknown": 0.0
+    },
+    "matched_education": "baccalaureat:) Option finances et comptabilite Baccalaureat Sciences Economiques Lycee Mohammed V, Casablanca (2021) 💼 Experiences professionnelles Stagiaire Aide Comptable - Cabinet Comptable BENJELLOUN, Casablanca (03/",
+    "matched_education_list": [
+      {
+        "degree": "baccalaureat",
+        "field": ") Option finances et comptabilite Baccalaureat Sciences Economiques Lycee Mohammed V, Casablanca (2021) 💼 Experiences professionnelles Stagiaire Aide Comptable - Cabinet Comptable BENJELLOUN, Casablanca (03/",
+        "year": [
+          "2021",
+          "2023"
+        ]
+      }
+    ],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV correspond très bien à l'offre d'emploi d'aide comptable, car le candidat possède un DEUG en gestion des entreprises et administrations, a une expérience en cabinet comptable et maîtrise les compétences requises telles que la comptabilité générale, la bureautique et l'organisation."
+  }
+}

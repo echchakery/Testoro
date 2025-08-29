@@ -1,0 +1,50 @@
+
+Miguel Herrera
+miguel.herrera.cpa@gmail.com | Miami, FL | (305) 455-2929
+LinkedIn: linkedin.com/in/miguelh-cpa
+
+Summary
+CPA-qualified accountant with 8 years of experience in financial reporting, audit, and internal controls. Recently began exploring data tools to support faster reporting and reconciliation, but background remains solidly in accounting and compliance.
+
+Specialties
+GAAP / IFRS Reporting
+
+Month-End Close, Reconciliations
+
+Audit Support & Internal Controls
+
+Excel (Pivot Tables, VLOOKUP)
+
+Beginner Python & SQL exposure (self-study)
+
+Experience
+Senior Accountant
+Seaside Logistics – Miami, FL
+2019 – Present
+
+Managed full-cycle GL accounting for $100M division.
+
+Reduced close cycle by 20% using Excel automation and Power Query.
+
+Wrote basic Python scripts to reformat and validate invoice datasets (non-production).
+
+Partnered with BI team to design reports for CFO using Power BI.
+
+Staff Accountant
+Deloitte – Miami, FL
+2015 – 2019
+
+Audited financial statements for mid-sized clients in retail and manufacturing.
+
+Built monthly roll-forward schedules and audit working papers.
+
+Occasionally used SQL templates to extract ledger data from client ERP systems.
+
+Education
+Bachelor of Accounting
+Florida International University – 2015
+
+Certifications
+CPA, State of Florida
+
+Python for Finance – Udemy (2023)

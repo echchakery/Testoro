@@ -1,0 +1,26 @@
+{
+  "job_id": "ee12b2d3-19c6-419f-98fd-d6597e48f5fb",
+  "job_title": "data analyst",
+  "description": "nous recruitons un data analyste qui metrise power bi tableau l'analyse et la préparation  de données ",
+  "required_languages": [
+    "fr",
+    "en"
+  ],
+  "required_degree": "master",
+  "preferred_fields": [
+    "data science",
+    "big data"
+  ],
+  "experience_fields": [
+    "data scientist",
+    "data analyst"
+  ],
+  "min_experience_years": 2,
+  "max_experience_years": 5,
+  "required_skills": [
+    "python",
+    "power bi",
+    "tableau"
+  ],
+  "created_at": "2025-08-15T15:36:35.332587"
+}

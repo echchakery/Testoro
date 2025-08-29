@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-08-28T18:18:53.366491",
+  "job_id": "0ad4da8a-f45b-4bb7-a45c-732d0f432d2d",
+  "resume_file": "cv_51.pdf",
+  "original_filename": "cv_51.pdf",
+  "match_score": {
+    "file": "cv_51.pdf",
+    "summary": "",
+    "semantic": 0.2213205337524414,
+    "skills": 0.2,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 0.5,
+    "llama": 0.0,
+    "llama_expl": "Le CV ne correspond pas à l'offre d'emploi de Commercial B2B, car les compétences et expériences présentées sont principalement liées au développement web et à la programmation, et non aux ventes, à la négociation ou à la gestion de portefeuille clients.",
+    "final": 0.0,
+    "classification": "Non classé",
+    "original_filename": "cv_51.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "excel"
+    ],
+    "matched_languages": [
+      "ar",
+      "en"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "languages_str": "ar,en",
+    "matched_skills": "excel",
+    "matched_skills_list": [
+      "excel"
+    ],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV ne correspond pas à l'offre d'emploi de Commercial B2B, car les compétences et expériences présentées sont principalement liées au développement web et à la programmation, et non aux ventes, à la négociation ou à la gestion de portefeuille clients."
+  }
+}

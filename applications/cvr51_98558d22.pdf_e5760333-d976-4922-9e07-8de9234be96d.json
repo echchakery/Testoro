@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-08-28T18:37:07.418407",
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "resume_file": "cvr51_98558d22.pdf",
+  "original_filename": "cvr51.pdf",
+  "match_score": {
+    "file": "cvr51_98558d22.pdf",
+    "summary": "Je n'ai trouvé aucune information sur le CV fourni. Expérience professionnelle: Voici les expériences professionnelles : - Développeur Web, [Entreprise non spécifiée] - [Autres postes non mentionnés] Compétences: mentionnées dans le CV sous forme de mots-clés, en évitant les répétitions : - HTML - CSS - JavaScript - Java - PHP - HTML5 - CSS Projets réalisés: Je ne vois pas d'informations sur les projets listés précédemment : - Amélioration de l'efficacité des opérations dans les entreprises - Conception d'un système de gestion de projet pour les utilisateurs - Réalisation d'une plateforme de e-commerce pour les employés et les développés - Connaissance de la santé pour les équipes de produits et les entraînés - Analyse de la qualité des produits pour les étudiants - Connaissances de la gestion des ressources et des employés pour les détailurs. Formation:  - Baccalauréat en Sciences Mathématiques et Informatiques (Diplôme d'Études Universitaires Générales) (année non précisée) - Licence en Systèmes d'Information et de Gestion des Entreprises (Année Non précise) - Année Non Précisement d'Université de la Société des Équipes et des Administrateurs de la Faculté des Sciences de la Université de La Vie (ENS) Langues: Je peux vous aider les langues parlées selon le CV : 1. Français 2. Anglais 3. Espagnol Projet réalisé: Je suis pas leur objectif et impact : - **Développer des solutions pour améliorer l'accès à l'éducation et à la communication entre les événements. - **Créer des solutions de suivi des services pour les clients** : Améliore la sécurité et la productivité pour les patients.",
+    "semantic": -0.021883415058255196,
+    "skills": 0.0,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 0.0,
+    "llama": 0.0,
+    "llama_expl": "Le CV ne contient aucune information pertinente pour l'offre d'emploi d'aide comptable, seuls des images sont présentes.",
+    "final": 0.0,
+    "classification": "Non classé",
+    "original_filename": "cvr51.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [],
+    "matched_languages": []
+  },
+  "match_details": {
+    "languages": [],
+    "languages_str": "",
+    "matched_skills": "",
+    "matched_skills_list": [],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV ne contient aucune information pertinente pour l'offre d'emploi d'aide comptable, seuls des images sont présentes."
+  }
+}

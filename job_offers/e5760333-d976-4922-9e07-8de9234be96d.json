@@ -1,0 +1,27 @@
+{
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "job_title": "AIDE COMPTABLE",
+  "description": "L’aide comptable participe à la tenue de la comptabilité générale, à l’établissement de la facturation clients, au suivi des achats fournisseurs, du courrier administratif, de la banque et de la caisse. Il contribue à la saisie des dossiers sur l’ERP et à la mise à jour des relevés bancaires.",
+  "required_languages": [
+    "fr"
+  ],
+  "required_degree": "deug",
+  "preferred_fields": [
+    "finances",
+    "gestion"
+  ],
+  "experience_fields": [
+    "data scientist",
+    "manager"
+  ],
+  "min_experience_years": 0,
+  "max_experience_years": 1,
+  "required_skills": [
+    "bureautique",
+    "communication écrite et orale",
+    "trésorerie",
+    "organisation",
+    "rigueur"
+  ],
+  "created_at": "2025-08-20T18:15:34.470093"
+}

@@ -1,0 +1,118 @@
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+- +216 93073830
+
+- 2080, Ariana, Tunisie
+
+hajer.hajmeftah72@yahoo.com
+
+https://github.com/hajer05
+
+Hajer Haj meftah
+
+## EDUCATION
+
+- Esprit, Ariana Computer science  Engineering 2021-2024
+- ISIMM, Monastir 2018-2021
+
+Bachelor of Information and Communication Technology
+
+- Programming Languages:
+- JavaScript, Python, HTML, CSS, C, Java, SQL, laravel(php)
+- Frameworks:
+
+Frontend: React.js, Angular, Bootstrap, Backend:
+
+Django, springBoot , .Net ,NodeJs
+
+- DataBase: SQL : mySQl ,
+
+PostegreSQL  |  NoSQL : mongoDB
+
+- Modeling language : UML
+- DevOps : Docker , Jenkins
+- Operating System: Windows , Linux
+- Soft Skills: Time Management, Teamwork, Communication, Problem Solving, Accountability
+
+## LANGUAGES:
+
+- English: Intermediate
+- French: Intermediate
+- Arabic: Native
+
+## ACADEMIC EXPERIENCE
+
+- Member of IEEE Club
+- Active member in ACM Problem Solving Club, participating in problem-solving competitions.
+- Member of ISIMM Monastir Robotics Club
+
+## SKILL
+
+## Hajer Haj Meftah
+
+## I n g i n e e r i n g   S t u d e n t   C o m p u t e r   S c i e n c e ' W E B   D E V E L O P M E N T '
+
+## PROFILE
+
+Dedicated and highly motivated IT engineering student with a strong commitment to excellence. Adept at working in both teambased and independent environments. Known for reliability, responsibility, and a proactive approach to problem-solving.
+
+## WORK EXPERIENCE
+
+## Gewinner , Technopark El Ghazela Engineer Internship
+
+Jun 2023-Aout 2023
+
+Developed an online advisory platform in the electronics sector
+
+- Utilized the MEAN Stack framework (MongoDB, Express.js, Angular, and Node.js)
+- Enhanced access to specialized advice and knowledge.
+
+## Airport TAV, Monastir Integration Internship
+
+Jun 2022-Sep 2022
+
+- Participated  in  a  web  application  development  project  aimed  at  serving the personnel working at Monastir Airport, using the Angular framework
+
+## Techiprotech-Metal, Sousse Electronics Card Design and Production Feb 2021-Jul 2021
+
+- Design  and  production  of  an  electronic  card  to  control  an  OAS  surface treatment system at TECHNIPROTECH-METAL.
+- Utilizing  tools  and  technologies  such  as  Arduino  Mega  2560,  infrared sensors, amplifiers, and voltage regulation.
+
+## Airport TAV, Monastir Summer Internship
+
+Jun 2019-Sep 2019
+
+- Gained valuable work experience and explored telecommunications field in a professional setting
+
+## ACADEMIC PROJECTS
+
+Level-Up (A Nutritionist and Fitness Platform)
+
+- Developed a web platform encompassing nutrition and fitness solutions, including a daily menu generator, exercise library, online store, community forum, chatbot, and online coaching sessions.
+- Technologies: NodeJS , Express MongoDB , ReactJs
+
+Designed and built a web-based application for the management of universities and students
+
+- Technologies: SpringBoot , Angular
+- A secure web platform, built on a microservices architecture, catering to freelancers and clients.
+- Technologies: SpringBoot , Angular , MySQL , H2 PostegreSQL ,Docker , nodeJS , MongoD
+- Created a web application to support freelancers and enhance employability
+- Technologies: Laravel 9 (php)
+- Designed and developed a desktop application that automates and facilitates household management for students and employees of Esprit University
+- Technologies: C language,Glade &amp; GTK,GCC.
+
+KADDEM application web web platform for freelancers and employability
+
+Advancement of a freelance career
+
+Smart Esprit

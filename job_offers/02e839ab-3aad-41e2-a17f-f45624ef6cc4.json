@@ -1,0 +1,25 @@
+{
+  "job_id": "02e839ab-3aad-41e2-a17f-f45624ef6cc4",
+  "job_title": "Analyste Finance & Vente",
+  "description": "Data Analyst Junior\nNous recherchons un(e) Data Analyst Junior pour rejoindre notre \u00e9quipe Data et contribuer \u00e0 l\u2019analyse des performances de nos produits digitaux.\n\n\ud83e\uddd1\u200d\ud83d\udcbc Responsabilit\u00e9s :\nCollecter, nettoyer et analyser des donn\u00e9es issues de diff\u00e9rentes sources (CRM, web analytics, base SQL\u2026).\n\nCr\u00e9er des dashboards interactifs pour visualiser les KPIs.\n\nParticiper \u00e0 la mise en place de mod\u00e8les de pr\u00e9vision.\n\nTravailler en collaboration avec les \u00e9quipes produit, marketing et IT.\n\n\ud83d\udd27 Comp\u00e9tences requises :\nMa\u00eetrise d\u2019Excel et de Power BI.\n\nConnaissance de SQL.\n\nNotions de Python ou R (atout).\n\nCapacit\u00e9 \u00e0 vulgariser les analyses pour des \u00e9quipes non techniques.\n\n\ud83d\udcda Dipl\u00f4me requis :\nBac +3 minimum en Statistiques, Data Science, Informatique ou \u00e9quivalent.\n\n\ud83c\udf0d Langues :\nFran\u00e7ais courant\n\nAnglais technique\n\n\ud83e\uddea Exp\u00e9rience :\n0 \u00e0 2 ans d'exp\u00e9rience (stage accept\u00e9)",
+  "required_languages": [
+    "fr",
+    "en"
+  ],
+  "required_degree": "bachelor",
+  "preferred_fields": [
+    "statistiques",
+    "data science",
+    "informatique"
+  ],
+  "min_experience_years": 0,
+  "max_experience_years": 2,
+  "required_skills": [
+    "python",
+    "r",
+    "sql",
+    "excel",
+    "powerbi"
+  ],
+  "created_at": "2025-08-06T16:59:21.280816"
+}

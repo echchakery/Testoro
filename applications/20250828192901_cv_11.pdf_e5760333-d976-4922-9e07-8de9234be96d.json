@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-08-28T19:29:26.295641",
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "resume_file": "20250828192901_cv_11.pdf",
+  "original_filename": "cv_11.pdf",
+  "match_score": {
+    "file": "20250828192901_cv_11.pdf",
+    "summary": "",
+    "semantic": 0.28451132625341413,
+    "skills": 0.0,
+    "experience": 0.0,
+    "education": 0.4,
+    "language": 1.0,
+    "llama": 0.2,
+    "llama_expl": "Le CV ne correspond pas bien à l'offre d'emploi d'aide comptable, car les expériences professionnelles et les compétences présentées sont principalement liées à l'informatique, au développement logiciel et à la gestion de projets, plutôt qu'à la comptabilité et à la gestion financière.",
+    "final": 0.1965,
+    "classification": "Non classé",
+    "original_filename": "cv_11.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "",
+    "matched_skills_list": [],
+    "matched_education": "phd:Conception et mise en uvre de l architecture d une nouvelle application bibliothèque LMS Aramon conforme aux exigences de cybersécurité de Sanofi. - Développement et mise en production d une application maison de gestion d URLs pour le département digital (MERN + Docker). - Mise en place du protocole HTTPS sur un serveur interne. - Rajout et amélioration de fonctionnalités sur une application existante en PHP. - Gestion et amélioration de la plateforme LMS Sanofi, en collaboration avec les équipes d administration. - Participation à l amélioration de l expérience utilisateur des tablettes sur site, en collaboration avec les équipes de digital. - Encadrement et formation des équipes sur de nouveaux processus. - Proposition et mise en place d un lien entre la plateforme iLEARN et Power BI pour un suivi automatique en temps réel des données de formation (Data scientiste). - Digitalisation des parcours de prise de connaissance et instructions des 12 départements du site selon le projet rôle base iLEARN. - Digitaliser les processus de qualification sur département Production et logistique. - Gestion des tickets de support utilisateurs. ## Service Pilotage du Système d Information de l UNIE !-- image -- ## EDF l Paris, France",
+    "matched_education_list": [
+      {
+        "degree": "phd",
+        "field": "Conception et mise en uvre de l architecture d une nouvelle application bibliothèque LMS Aramon conforme aux exigences de cybersécurité de Sanofi. - Développement et mise en production d une application maison de gestion d URLs pour le département digital (MERN + Docker). - Mise en place du protocole HTTPS sur un serveur interne. - Rajout et amélioration de fonctionnalités sur une application existante en PHP. - Gestion et amélioration de la plateforme LMS Sanofi, en collaboration avec les équipes d administration. - Participation à l amélioration de l expérience utilisateur des tablettes sur site, en collaboration avec les équipes de digital. - Encadrement et formation des équipes sur de nouveaux processus. - Proposition et mise en place d un lien entre la plateforme iLEARN et Power BI pour un suivi automatique en temps réel des données de formation (Data scientiste). - Digitalisation des parcours de prise de connaissance et instructions des 12 départements du site selon le projet rôle base iLEARN. - Digitaliser les processus de qualification sur département Production et logistique. - Gestion des tickets de support utilisateurs. ## Service Pilotage du Système d Information de l UNIE !-- image -- ## EDF l Paris, France",
+        "year": [
+          "2024"
+        ]
+      }
+    ],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV ne correspond pas bien à l'offre d'emploi d'aide comptable, car les expériences professionnelles et les compétences présentées sont principalement liées à l'informatique, au développement logiciel et à la gestion de projets, plutôt qu'à la comptabilité et à la gestion financière."
+  }
+}

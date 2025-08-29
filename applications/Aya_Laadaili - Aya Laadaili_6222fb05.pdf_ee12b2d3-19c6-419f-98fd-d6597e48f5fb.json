@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-08-28T17:00:23.143514",
+  "job_id": "ee12b2d3-19c6-419f-98fd-d6597e48f5fb",
+  "resume_file": "Aya_Laadaili - Aya Laadaili_6222fb05.pdf",
+  "original_filename": "Aya_Laadaili - Aya Laadaili.pdf",
+  "match_score": {
+    "file": "Aya_Laadaili - Aya Laadaili_6222fb05.pdf",
+    "summary": "Aya Aya, 2ème année Master Big Data Data Science, Casablanca, ayaalaadaili@gmail.com, 13 rue provins 20310. Expérience professionnelle: Voici les expériences professionnelles de AYA AYA : 1. Banque Centrale Populaire BCP (JUIN 2024 - AOUT 2024) 2. Office national chemins fer ONCF (AVRIL 2023 - JUIN 2023) 3. Développement SIEM Basé IA (Détection Réponse Automatisée Menaces Temps Réel) Compétences: mentionnées dans le CV sous forme de mots-clés, en évitant les répétitions et en excluant les compétitions déjà associées aux projets listés précédemment : - Machine Learning - Deep Learning - Scikit-learn - Pandas - Numpy - Java - JEE - Python - PHP - R - Spring Boot - Django - Flask - Angular - Bootstrap - CSS - JavaScript - TypeScript - Git - Docker - Kubernetes Cloud Computing : IBM Cloud, AWS Cloud - Bases donnés : MySQL, Oracle, SQLite, MongoDB, Hadoop, Hive, HBase - Intelligence Artificielle : Machine Learning, Deep Learning, Scikit-,learn, Pandas, Numpy Formation:  - Baccalauréat Sciences Physiques : Anouar AlMadina, Casabanca (2019 - 2020) - DEUST Informatique Mathématique Physique : FST Tanger Université Abdelmalek Esaadi (2020 - 2022) - Licence Génie informatique : Faculté Sciences Ben sik, FSBM,Casablanca (2023 - cours) Langues: parlées selon le CV : - Arabe - Français Projets réalisés: par AYA LAADAILI AYA, en mettant en avant leur objectif et impact : - Application de traitement automatisation donnéées temps réel : Scraping multi-sites annonces voitures : Améliorer l'efficacité et la productivité des processus. - Détection réponse automatisée des menaces de temps-réel : Détecter les résultats automatisés des men",
+    "semantic": 0.3415344171226024,
+    "skills": 1.0,
+    "experience": 0.0,
+    "education": 1.0,
+    "language": 0.0,
+    "llama": 0.6,
+    "llama_expl": "Le candidat a des compétences en data science et big data, ainsi qu'une expérience dans l'utilisation de technologies telles que Python, Power BI et Tableau, mais il manque d'expérience professionnelle dans le domaine de l'analyse de données et ne répond pas exactement aux critères d'expérience et de diplôme requis pour le poste de data analyst.",
+    "final": 0.5946,
+    "classification": "Non classé",
+    "original_filename": "Aya_Laadaili - Aya Laadaili.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "tableau",
+      "power bi",
+      "python"
+    ],
+    "matched_languages": [
+      "ar"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar"
+    ],
+    "languages_str": "ar",
+    "matched_skills": "power bi,python,tableau",
+    "matched_skills_list": [
+      "tableau",
+      "power bi",
+      "python"
+    ],
+    "matched_education": "master:Casablanca ## Résumé Profil Étudiante Master Science Données Big Data passionnée Data Engineering Machine Learning technologies DevOps compétences solides technologies Big Data visualisation données. Expérimentée création pipelines données automatisation processus analyse temps réel mené projets intégrant détection incidents modélisation risques. recherche stage fin études dès février contribuer projets stratégiques innovants IA Big Data Business Intelligence. ## Education",
+    "matched_education_list": [
+      {
+        "degree": "master",
+        "field": "Casablanca ## Résumé Profil Étudiante Master Science Données Big Data passionnée Data Engineering Machine Learning technologies DevOps compétences solides technologies Big Data visualisation données. Expérimentée création pipelines données automatisation processus analyse temps réel mené projets intégrant détection incidents modélisation risques. recherche stage fin études dès février contribuer projets stratégiques innovants IA Big Data Business Intelligence. ## Education",
+        "year": [
+          "0310"
+        ]
+      }
+    ],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le candidat a des compétences en data science et big data, ainsi qu'une expérience dans l'utilisation de technologies telles que Python, Power BI et Tableau, mais il manque d'expérience professionnelle dans le domaine de l'analyse de données et ne répond pas exactement aux critères d'expérience et de diplôme requis pour le poste de data analyst."
+  }
+}

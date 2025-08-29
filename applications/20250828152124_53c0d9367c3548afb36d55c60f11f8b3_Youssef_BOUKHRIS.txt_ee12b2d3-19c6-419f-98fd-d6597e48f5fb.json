@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-08-28T15:22:37.869711",
+  "job_id": "ee12b2d3-19c6-419f-98fd-d6597e48f5fb",
+  "resume_file": "20250828152124_53c0d9367c3548afb36d55c60f11f8b3_Youssef_BOUKHRIS.txt",
+  "original_filename": "53c0d9367c3548afb36d55c60f11f8b3_Youssef_BOUKHRIS.txt",
+  "match_score": {
+    "file": "20250828152124_53c0d9367c3548afb36d55c60f11f8b3_Youssef_BOUKHRIS.txt",
+    "summary": "Youssef BOUKHRIS, , Rabat, youssef.boukhris@email.com, +212 6 45 67 89 01. Expérience professionnelle: Voici les expériences professionnelles deYoussef Boukhris : - Assistant administratif, Societe de logistique MAROLOG - Employe administratifi, BMCE Bank Compétences: mentionnées dans le CV sous forme de mots-clés, en évitant les répétitions et en excluant les compétitions déjà associées aux projets listés précédemment : - Microsoft Office - Excel - Access - Organisation administrative - Bases en gestion comptable Formation:  - Baccalauréat Sciences Mathématiques : Lycée Hassan II, 2019 - DEUG Informatique de Gestion : Université Mohammed V, 2020-2022 Langues: parlées selon le CV : 1. Arabe 2. Français 3. Anglais Projets réalisés:  - Gestion et saisie des bons de livraison : Améliorer l'efficacité des opérations financières. - Suivi des factures fournisseurs sur Excel : Archivage et classement des dossiers. - Saisie de donnees sur le systeme interne : Concevoir et développer des competences en comptabilité et finances.",
+    "semantic": 0.25583870634436606,
+    "skills": 0.0,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 1.0,
+    "llama": 0.2,
+    "llama_expl": "Le CV ne correspond que partiellement à l'offre d'emploi, le candidat n'a pas les compétences requises en Python, Power BI et Tableau, et son expérience professionnelle n'est pas directement liée au domaine de la data analyse.",
+    "final": 0.1851,
+    "classification": "Non classé",
+    "original_filename": "53c0d9367c3548afb36d55c60f11f8b3_Youssef_BOUKHRIS.txt",
+    "matched_experience_domains": [],
+    "matched_skills": [],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "",
+    "matched_skills_list": [],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV ne correspond que partiellement à l'offre d'emploi, le candidat n'a pas les compétences requises en Python, Power BI et Tableau, et son expérience professionnelle n'est pas directement liée au domaine de la data analyse."
+  }
+}

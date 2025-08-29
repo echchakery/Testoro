@@ -1,0 +1,25 @@
+{
+  "job_id": "ff25766c-3661-40d7-93ef-d98c2dd7100b",
+  "job_title": "Data scientist",
+  "description": "nous recruitons un data scientist capable de collecter pr\u00e9parer et analyser notre data et expert on machine learning et power bi ",
+  "required_languages": [
+    "fr",
+    "en"
+  ],
+  "required_degree": "master",
+  "preferred_fields": [
+    "data science",
+    "big data"
+  ],
+  "min_experience_years": 2,
+  "max_experience_years": 5,
+  "required_skills": [
+    "python",
+    "sql",
+    "python",
+    "machine learning",
+    "power bi",
+    ""
+  ],
+  "created_at": "2025-08-15T09:25:48.042005"
+}

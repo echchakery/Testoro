@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-08-28T17:16:59.485773",
+  "job_id": "ee12b2d3-19c6-419f-98fd-d6597e48f5fb",
+  "resume_file": "Aya_Laadaili - Aya Laadaili_bf86ea89.pdf",
+  "original_filename": "Aya_Laadaili - Aya Laadaili.pdf",
+  "match_score": {
+    "file": "Aya_Laadaili - Aya Laadaili_bf86ea89.pdf",
+    "summary": "Aya Laadaili, , Casablanca, ayaalaadaili@gmail.com, 0608824150. Expérience professionnelle:  - Discoverer, Oracle Entreprise Ressource Planning (ERP)Cloud - Développement d'un Pipeline ETL Automatise avec Visualisation des donnees en temps reel (AVRIL 2023 - JUIN 2023) - Gestion d' un Centre de Soutien Scolaire en Architecture SOA (non spécifié) Compétences:  - Automatisation des processus et l analyse d'une temps-reel : automatisation de processus, l'amélioration de l'analyse et la modelisation de risques. - Data Engineering : Machine Learning et les technologies DevOps, avec des competences solides en technologies Big Data et Big Data. - Visualisation de donnèes : Deep Learning, Hadoop, Java, JEE, Python, PHP, R - Frameworks et bibliothèques : Spring Boot, Django, Flask, Elasticsearch, Kibana, SQL, MySQL, Tableau, API REST, RESTful, Selenium, Beautiful Soup, Apache Kafka, scikit-learn, TF-IDF, similarite cosinus, SQLite, Celery, Docker, Postman Formation:  1. Baccalaureat en Sciences Physiques Physique (Anouar AlMadina, 2018-2020) 2. DEUST en Informatique Mathematique (2020-2022) 3. Licence en Genie Informatiques (2022-2023) Langues: parlées : - Arabe - Français - Anglais Projets réalisés: par Aya Aya : - Application de traitement d'automatisation d'énergie pour automatiser la risque de credit (Banque Centrale Populaire (BCP) - Scraping multi-sites pour les annonces de voitures (JUIN 2024 - AOUT 2024) - Système de conversion bidirectionnelle et Texte-Audio en Temps-Reel (Centre de soutien scolaire) - Application",
+    "semantic": 0.3233155086636543,
+    "skills": 1.0,
+    "experience": 0.0,
+    "education": 1.0,
+    "language": 1.0,
+    "llama": 0.6,
+    "llama_expl": "Le candidat a des compétences en data science, machine learning et visualisation de données, mais manque d'expérience directe en tant que data analyst et n'a pas mentionné explicitement l'utilisation de Power BI et Tableau dans un contexte professionnel, même si ces outils sont mentionnés dans ses compétences.",
+    "final": 0.6116,
+    "classification": "Non classé",
+    "original_filename": "Aya_Laadaili - Aya Laadaili.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "tableau",
+      "power bi",
+      "python"
+    ],
+    "matched_languages": [
+      "ar",
+      "en",
+      "es",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "es",
+      "fr"
+    ],
+    "languages_str": "ar,en,es,fr",
+    "matched_skills": "power bi,python,tableau",
+    "matched_skills_list": [
+      "tableau",
+      "power bi",
+      "python"
+    ],
+    "matched_education": "master:Casablanca Resume Profil Etudiante en Master en Science des Donnees et Big Data, passionnee par le Data Engineering, le Machine Learning et les technologies DevOps, avec des competences solides en technologies Big Data et en visualisation de donnees. Experimentee dans la creation de pipelines de donnees, l'automatisation de processus et l'analyse en temps reel, j'ai mene des projets integrant la detection d'incidents et la modelisation de risques. Je suis a la recherche d'un stage de fin d'etudes des fevrier pour contribuer a des projets strategiques et innovants en IA, Big Data et Business Intelligence. Education",
+    "matched_education_list": [
+      {
+        "degree": "master",
+        "field": "Casablanca Resume Profil Etudiante en Master en Science des Donnees et Big Data, passionnee par le Data Engineering, le Machine Learning et les technologies DevOps, avec des competences solides en technologies Big Data et en visualisation de donnees. Experimentee dans la creation de pipelines de donnees, l'automatisation de processus et l'analyse en temps reel, j'ai mene des projets integrant la detection d'incidents et la modelisation de risques. Je suis a la recherche d'un stage de fin d'etudes des fevrier pour contribuer a des projets strategiques et innovants en IA, Big Data et Business Intelligence. Education",
+        "year": [
+          "0310"
+        ]
+      }
+    ],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le candidat a des compétences en data science, machine learning et visualisation de données, mais manque d'expérience directe en tant que data analyst et n'a pas mentionné explicitement l'utilisation de Power BI et Tableau dans un contexte professionnel, même si ces outils sont mentionnés dans ses compétences."
+  }
+}

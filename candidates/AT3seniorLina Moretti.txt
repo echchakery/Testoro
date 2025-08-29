@@ -1,0 +1,38 @@
+Name: Lina Moretti
+Email: lina.moretti@email.com
+Location: New York, NY
+Portfolio: linamoretti.dev
+LinkedIn: linkedin.com/in/linamoretti
+
+🎓 Education
+M.S. in Computer Science, Cornell University
+B.S. in Design & Human-Computer Interaction, Pratt Institute
+
+💼 Experience
+Senior Frontend Engineer / UI Team Lead
+HyperScale AI, New York, NY | Mar 2019 – Present
+
+Led a team of 5 engineers in building a modular React/TypeScript design system
+
+Worked closely with product/design to revamp the entire UI architecture using Next.js
+
+Introduced Cypress and visual regression testing across all core features
+
+Mentored junior devs and conducted frontend code reviews
+
+Frontend Engineer
+MediaBoost, Remote | Jan 2016 – Feb 2019
+
+Developed UI features for marketing dashboards using Redux and REST APIs
+
+Refactored legacy jQuery features into reusable React components
+
+🛠️ Skills
+React, TypeScript, Next.js
+
+Styled-components, Emotion, Tailwind
+
+Testing: Cypress, Jest, Playwright
+
+CI/CD, Agile, Team Leadership
+

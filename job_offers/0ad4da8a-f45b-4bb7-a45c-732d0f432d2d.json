@@ -1,0 +1,30 @@
+{
+  "job_id": "0ad4da8a-f45b-4bb7-a45c-732d0f432d2d",
+  "job_title": "Commercial B2B",
+  "description": "Nous recherchons un commercial motivé pour développer et gérer un portefeuille clients dans les domaines de la finance et des ventes. Le candidat idéal possède d'excellentes compétences en communication et en négociation, ainsi qu'une bonne maîtrise des outils CRM et d'analyse (Excel)",
+  "required_languages": [
+    "fr",
+    "en"
+  ],
+  "required_degree": "licence",
+  "preferred_fields": [
+    "vente",
+    "marketing",
+    "business"
+  ],
+  "experience_fields": [
+    "commercial",
+    "business developer",
+    "account manager"
+  ],
+  "min_experience_years": 2,
+  "max_experience_years": 5,
+  "required_skills": [
+    "excel",
+    "crm",
+    "négociation",
+    "prospection",
+    "communication"
+  ],
+  "created_at": "2025-08-28T18:16:17.839746"
+}

@@ -1,0 +1,160 @@
+# prompt: ok do a test for that import os
+# import json
+# import re
+# import torch
+# import torch.nn.functional as F
+# import spacy
+# from spacy.matcher import PhraseMatcher
+# from sentence_transformers import SentenceTransformer, util
+# from transformers import AutoTokenizer, AutoModelForSequenceClassification
+# # === CONFIG ===
+# DOMAIN_MODEL_DIR = "/content/drive/MyDrive/ModernBert_23-06_hbila"
+# # === LOAD DOMAIN CLASSIFIER ===
+# def load_domain_classifier(model_dir=DOMAIN_MODEL_DIR):
+#     tokenizer = AutoTokenizer.from_pretrained(model_dir, local_files_only=True)
+#     model = AutoModelForSequenceClassification.from_pretrained(model_dir, local_files_only=True)
+#     label_map_path = os.path.join(model_dir, "label_map.json")
+#     if os.path.exists(label_map_path):
+#         with open(label_map_path, "r", encoding="utf-8") as f:
+#             label_map = json.load(f)
+#         if all(k.isdigit() for k in label_map):
+#             labels = [label_map[str(i)] for i in range(len(label_map))]
+#         else:
+#             labels = list(label_map.values())
+#     else:
+#         # Replace with your actual labels if needed
+#         labels = [
+#             'accountant', 'advocate', 'agriculture', 'apparel', 'architecture',
+#             'arts', 'automobile', 'aviation', 'banking', 'blockchain', 'bpo',
+#             'building and construction', 'business analyst', 'civil engineer',
+#             'consultant', 'data science', 'database', 'designing', 'devops',
+#             'digital media', 'dotnet developer', 'education', 'electrical engineering',
+#             'etl developer', 'finance', 'food and beverages', 'health and fitness',
+#             'human resources', 'information technology', 'java developer',
+#             'management', 'mechanical engineer', 'network security engineer',
+#             'operations manager', 'pmo', 'public relations', 'python developer',
+#             'react developer', 'sales', 'sap developer', 'sql developer', 'testing',
+#             'web designing', 'hr', 'designer', 'infor
+
+# === RESUME MATCHING SETUP (CONTINUED) ===
+
+def score_resume(resume_text, job_text, domain_tokenizer, domain_model, candidate_labels, sbert_model, nlp_model, domain_skills_map):
+    # Domain classification
+    domain_info = classify_domain(resume_text, domain_tokenizer, domain_model, candidate_labels)
+    domain = domain_info["label"].lower()
+    skill_list = domain_skills_map.get(domain, DEFAULT_SKILLS) # Use the passed map
+    matcher = load_domain_skill_matcher(nlp_model, skill_list) # Use the passed nlp_model
+
+    # Extract skills
+    resume_skills = extract_skills_with_matcher(resume_text, nlp_model, matcher) # Use the passed nlp_model
+    job_skills = extract_skills_with_matcher(job_text, nlp_model, matcher)     # Use the passed nlp_model
+
+    # Semantic similarity with sentence transformer
+    resume_emb = sbert_model.encode(resume_text, convert_to_tensor=True)
+    job_emb = sbert_model.encode(job_text, convert_to_tensor=True)
+    semantic_score = util.cos_sim(resume_emb, job_emb).item()
+
+    # Skill overlap
+    matched_skills = resume_skills.intersection(job_skills)
+    job_skill_count = len(job_skills)
+    matched_skill_count = len(matched_skills)
+    skill_overlap_score = matched_skill_count / job_skill_count if job_skill_count else 0.0
+
+    # Experience
+    exp_score = experience_score(resume_text, job_text)
+
+    # Final weighted score (weights can be tuned)
+    final_score = 0.6 * semantic_score + 0.25 * skill_overlap_score + 0.15 * exp_score
+
+    classification = "Good Match" if final_score >= 0.6 else "Partial Match" if final_score >= 0.4 else "Mismatch"
+
+    return {
+        "domain": domain_info,
+        "semantic_score": semantic_score,
+        "skill_overlap_score": skill_overlap_score, # Renamed for clarity
+        "experience_score": exp_score,
+        "final_score": final_score,
+        "classification": classification,
+        "matched_skills": list(matched_skills),
+        "job_skill_count": job_skill_count,
+        "matched_skill_count": matched_skill_count
+    }
+
+# === JOB JSON TO TEXT ===
+def job_json_to_text(job_json):
+    title = job_json.get("title", "")
+    responsibilities = "; ".join(job_json.get("responsibilities", []))
+    requirements = "; ".join(job_json.get("requirements", []))
+    return f"Poste: {title}\nResponsabilités: {responsibilities}\nCompétences Requises: {requirements}"
+
+# === EXAMPLE: ADD YOUR TEXT EXTRACTION, SUMMARIZATION, TRANSLATION HERE ===
+def preprocess_resume(raw_resume_text):
+    """
+    Placeholder for your text extraction from PDF/doc etc., summarization or translation.
+    For now, just returns input.
+    """
+    # e.g. translate with a model, summarize long text, clean text, etc.
+    # Assuming the input text might be French, we'll keep it as is for this example
+    # as the domain classifier and SBERT model are generally trained on English/multilingual data.
+    # A proper multilingual approach would involve translation.
+    return raw_resume_text
+
+# === MAIN TEST EXECUTION ===
+if __name__ == "__main__":
+    print("\n--- Running Resume Matching Test ---")
+
+    # Example resume (in French)
+    raw_resume_text = """
+    Marie Lambert
+    Développeuse Full Stack senior avec plus de 9 ans d’expérience dans le développement d’applications web et mobiles, la gestion d’équipes techniques, et l’intégration de solutions cloud. Passionnée par l’innovation, l’architecture logicielle moderne et les environnements agiles. Compétences: Python, JavaScript, React, Django, AWS, Docker, PostgreSQL.
+    """
+
+    # Preprocess resume (extract, translate, summarize)
+    resume_text = preprocess_resume(raw_resume_text)
+
+    # Example job posting (JSON)
+    job_json = {
+        "title": "Ingénieur IA",
+        "requirements": ["Python", "Django", "Machine Learning", "AWS", "5+ années d'expérience"],
+        "responsibilities": ["Créer des modèles de prédiction", "Analyser des données", "Collaborer avec des équipes produit"]
+    }
+
+    job_text = job_json_to_text(job_json)
+
+    # Ensure models are loaded before scoring
+    try:
+        domain_tokenizer, domain_model, candidate_labels = load_domain_classifier()
+        sbert_model_test = SentenceTransformer('all-mpnet-base-v2') # Load SBERT
+        nlp_model_test = spacy.load("en_core_web_sm")               # Load spaCy
+
+        # Score the resume using the loaded objects
+        result = score_resume(
+            resume_text,
+            job_text,
+            domain_tokenizer,
+            domain_model,
+            candidate_labels,
+            sbert_model_test,
+            nlp_model_test,
+            DOMAIN_SKILLS # Pass the skill map
+        )
+
+        # Print result
+        print(f"--- Résultat ---")
+        print(f"Original Resume Text:\n{raw_resume_text}")
+        print(f"\nJob Requirements (from JSON):\n{job_json}")
+        print(f"\nDomain Prediction: {result['domain']['label']} (Confidence: {result['domain']['score']:.2f})")
+        print(f"Semantic Score (Resume vs Job Text): {result['semantic_score']:.4f}")
+        print(f"Skill Overlap Score: {result['skill_overlap_score']:.4f} ({result['matched_skill_count']} / {result['job_skill_count']} matched skills)")
+        print(f"Experience Score: {result['experience_score']:.4f}")
+        print(f"Final Weighted Score: {result['final_score']:.4f}")
+        print(f"Classification: {result['classification']}")
+        print(f"Matched Skills (based on domain matcher): {result['matched_skills']}")
+
+    except Exception as e:
+        print(f"An error occurred during the resume matching test: {e}")
+        print("Please ensure that:")
+        print("- The domain classifier model is correctly saved at", DOMAIN_MODEL_DIR)
+        print("- spaCy model 'en_core_web_sm' is downloaded (might require !python -m spacy download en_core_web_sm if not already there)")
+        print("- Necessary libraries (transformers, torch, spacy, sentence_transformers) are installed.")
+#hna al_hb

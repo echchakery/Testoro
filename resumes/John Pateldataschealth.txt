@@ -1,0 +1,72 @@
+John Patel
+Boston, MA | john.patel@bioml.com | (617) 555-1923
+LinkedIn: linkedin.com/in/johnpatel | GitHub: github.com/johnbioML
+
+Professional Summary
+Biomedical data scientist with 6+ years in healthcare analytics and machine learning. Specialized in patient outcome prediction, clinical trial data analysis, and EMR data modeling. Strong collaboration with physicians and pharma teams to deploy actionable models in real-world clinical settings.
+
+Key Skills
+Tools: Python, R, SQL, TensorFlow, Keras
+
+Domain: Clinical Trials, EMR, Genomics, HIPAA compliance
+
+ML Techniques: Survival analysis, NLP, XGBoost, Deep Learning
+
+Visualization: Tableau, matplotlib, Dash
+
+Experience Highlights
+Built deep learning models to predict 30-day hospital readmission (AUC 0.92).
+
+NLP pipeline on doctor’s notes to flag at-risk patients.
+
+Led analysis of 5,000+ patients in drug efficacy study using R and mixed-effect models.
+
+2. Data Science + Marketing/Customer Analytics
+Lisa Kim
+Los Angeles, CA | lisa.kim.analytics@gmail.com | (310) 234-5566
+LinkedIn: linkedin.com/in/lisakim
+
+Professional Summary
+Customer analytics data scientist with a marketing background. Expert in using predictive modeling to drive customer segmentation, churn prediction, and campaign optimization. Passionate about transforming raw customer data into measurable business insights.
+
+Key Skills
+Languages: Python, SQL, R
+
+Tools: Google Analytics, Looker, Tableau, HubSpot
+
+Techniques: A/B Testing, Uplift Modeling, RFM, LTV Modeling
+
+Marketing Knowledge: Attribution modeling, CRM systems, Ad spend optimization
+
+Experience Highlights
+Boosted campaign ROI by 22% using uplift models.
+
+Built churn prediction model used by customer success teams to reduce attrition.
+
+Segmented 1M+ customer base using K-Means and hierarchical clustering.
+
+3. Data Science + Sports Analytics
+Michael Rivera
+Chicago, IL | michael.rivera.sportsds@gmail.com | (312) 555-0098
+GitHub: github.com/mikesportsanalytics
+
+Professional Summary
+Sports analytics professional blending machine learning with domain knowledge in basketball and soccer. Developed advanced player metrics and real-time game predictions. Contributor to public analytics blogs and open-source models for fan engagement.
+
+Key Skills
+Tech: Python, R, SQL, PyTorch, OpenCV
+
+Analytics: Expected goals (xG), PER, player tracking, time-series forecasting
+
+Tools: Tableau, Power BI, Streamlit
+
+Data Sources: NBA Stats API, Opta, Tracking Data
+
+Experience Highlights
+Built win probability models for NCAA teams with 86% post-game accuracy.
+
+Developed real-time dashboards for player impact evaluation.
+
+Contributed analytics insights to coaching staff for tactical decision-making.
+
+

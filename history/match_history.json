@@ -1,0 +1,1429 @@
+[
+  {
+    "timestamp": "2025-07-31T14:27:29.140434",
+    "job": {
+      "description": "nous recruitons un data scientest ",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "data science",
+        "big data"
+      ],
+      "min_experience_years": 2,
+      "max_experience_years": 5,
+      "required_skills": [
+        "python",
+        "sql",
+        "hadoop",
+        "ml",
+        "spark",
+        "hive",
+        "nlp"
+      ]
+    },
+    "num_resumes": 2,
+    "matched_candidates": [
+      {
+        "file": "cv_38.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0272,
+        "skills": 0.8571,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.8095
+      },
+      {
+        "file": "cv_41.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.55
+      },
+      {
+        "file": "cv_36.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1015,
+        "skills": 0.7143,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.5355
+      },
+      {
+        "file": "leila El Hachimifinanceanalyst.txt",
+        "summary": "Informations personnelles: Leila El Hachimi, 20 ans, Casablanca, leila.hachimi@financepro.ma, +212 6 77 66 55 44. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Financial Analyst, Attijariwafa Bank (Casablanca) - Analyste de donn\u00e9es, [Entreprise non sp\u00e9cifi\u00e9e] Comp\u00e9tences: mentionn\u00e9 dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Excel - Power BI - SAP - Financial Modeling, Budgeting, Forecasting - IFRS, Moroccan GAAP - Accounting - Analyse - D\u00e9veloppement logiciel - Gestion de projet Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. Master en Finance, ISCAE - Casabanca (2020-2022) 2. Bachelor en Business Administration, ENCG Settat (2018-2019) 3. Baccalaur\u00e9at en Finance (2019-2025) Langues: parl\u00e9es selon le CV",
+        "semantic": 0.0524,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5183
+      },
+      {
+        "file": "cv_44.pdf",
+        "summary": "Informations personnelles: Seawsen Meksi, 20 ans, r\u00e9sidant \u00e0 Ksar Hellal, Monastir, Tunis, meksi.sawsan@gmail.com, +216 52912140. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : * Administration Assistant, Freelance (Freelance.tn, Tunis) * Assistant, Sotufab Meuble (Freelsance.tp, Tunis), * Assistant Manager, [Non sp\u00e9cifi\u00e9] Comp\u00e9tences: Je ne vois pas d'informations disponibles sur le CV fourni, mais je vais extraire les informations disponsibles sur les projets list\u00e9s pr\u00e9c\u00e9demment : - Pack Office - Gestion de projet - Communication - D\u00e9veloppement d'applications - Suivi de communication - Communication avec les clients - Collaboration avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en International Marketing (Beijing Polytechnique, Chine) - Dipl\u00f4",
+        "semantic": 0.0185,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5065
+      },
+      {
+        "file": "IMANE BENALIfinance.txt",
+        "summary": "Informations personnelles: IMANE BENALI, 20 ans, Casablanca, imane.benali@example.com, +212 672-112233. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Finance Intern, Attijariwafa Bank (Casablanca) - Financial Analyst, [Entreprise non sp\u00e9cifi\u00e9e] - [Autres postes non mentionn\u00e9s] Comp\u00e9tences: Je n'ai trouv\u00e9 aucune information sur le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - MS Excel - Excel - Power BI - SAP, QuickBooks - Risk Analysis - Financial Modeling - Analyse - Gestion de projet - Reporting - D\u00e9veloppement d'applications - Analyste d'analyse - Syst\u00e8mes d'exploitation Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. **Master\u2019s in Finance and Auditing**, \u00c9cole d'ENCG Settat (2022) 2.",
+        "semantic": 0.0118,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5041
+      },
+      {
+        "file": "cv_39.pdf",
+        "summary": "Informations personnelles: Fares Morad, 24 ans, habite \u00e0 Hay Riad essalam, et peut \u00eatre contact\u00e9 par email \u00e0 fares.sih@gmail.com ou par t\u00e9l\u00e9phone au 0 161 5-B5E 0N7I 3M3E 1L0LA. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Field planner / Commissioning Scheduler, JACOBS Engineering SA - Project control, Jorf Lasfar - (Poste non sp\u00e9cifi\u00e9), Menara Pr\u00e9fa - (Pas d'entreprise mentionn\u00e9e) Comp\u00e9tences: parl\u00e9es selon le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9titions d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Cost accounting - General accounting - Quality management - Analyse - Data analysis - Risk management -Operational research - Primavera - MS Project - AutoCAD - C++ - Visual Studio - Visual Design -",
+        "semantic": 0.0,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5
+      },
+      {
+        "file": "cv_40.pdf",
+        "summary": "Informations personnelles: Dammak Omar, 25 ans, r\u00e9sidant \u00e0 Ariena, omardammak91@hotmail.fr, 25 570 430 & 55 464 770. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Sous-traitant \u00e0 Ooredoo Tunisie-Sfax, Soci\u00e9t\u00e9 R\u00e9gionale de Transport du Transport du Equipeurgouvernorat de Sfax (SORETRAS) - Stage de Technicien \u00e0 Tunisie Telecom (Titulie Telecom) - Stagiaire \u00e0 Tofilie Telecom - Stage d'Ouvrier \u00e0 Tunisi Telecom - Service Gestion des Entrep\u00f4ts (Contr\u00f4le \u00e0 la livraison) - Stratification de l'authentification SCTP (GSM, GPRS, UMTS, LTE, LTE-Advanced) - Simulation avec Omnet++/4Gsim (Gsim) - Autres projets r\u00e9alis\u00e9s : - Cloud Computing, Internet of Things, Protocoles de Mobilit\u00e9s et de S\u00e9curit\u00e9s (C2I)",
+        "semantic": 0.029,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.3102
+      },
+      {
+        "file": "amark.txt",
+        "summary": "Informations personnelles: Emma Dupont, 25 ans, r\u00e9sidant \u00e0 Paris, France, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +33 6 12 34 56 78 ou par email \u00e0emma.dupont@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Emma Dupont : *Marketing Specialist, ABC Digital Agency, Paris * Marketing Assistant,XYZ Corp, Paris Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9ten\u00e7ues d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - SEO - SEO (Search Engine Optimization) - Content Creation - Copywriting - Google Analytics - SEMrush - Marketing artificielle - Social Media Marketing - SEO Optimization - SEO Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Bachelors en Marketing, Universit\u00e9 Paris-Dauphine (2017-2018) - Dipl\u00f4me en Business Administration, Universitaire",
+        "semantic": 0.0478,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.2667
+      },
+      {
+        "file": "amarkt2.txt",
+        "summary": "Informations personnelles: Lucas Martin, \u00e2g\u00e9 de 24 ans, est originaire de San Francisco, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +1 415 555 1234 ou par email \u00e0 lucas.martin@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Marketing Specialist,BrightWave Media (San Francisco) - Marketing Coordinator,Global Tech Solutions (Sant\u00e9, San Francisco)",
+        "semantic": 0.0108,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.2538
+      },
+      {
+        "file": "Mehdi El Idrissicomptab.txt",
+        "summary": "Informations personnelles: Mehdi El Idrissi, 6 ans, r\u00e9sidant \u00e0 Casablanca, Maroc, peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +212 6 78 45 32 19 ou par email \u00e0 mehdi.elidrismi@financepro.ma. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Assistant Comptable, Groupe Alpha Distribution (2019-Pr\u00e9sent) - Assistant comptable (2016-2019) - Fiduciaire Atlas (2016) - Pr\u00e9paration des d\u00e9clarations fiscales marocaines, CNSS (2017-2018)",
+        "semantic": 0.0,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.25
+      },
+      {
+        "file": "John Pateldataschealth.txt",
+        "summary": "Informations personnelles: Leila Kim, 26 ans, r\u00e9sidant \u00e0 Boston, MA, lisa.kim.analytics@gmail.com, (310) 234-5566. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : 1. Data Science + Marketing/Customer Analytics**,Lisa Kim (Los Angeles, CA) 2. Customer Analytics + Customer Analytics *, (aucuniversit\u00e9 non sp\u00e9cifi\u00e9e) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9titions d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Analyse - D\u00e9veloppement - Mod\u00e9lisation - Gestion de projet - Optimization - Optimisation - R - Uplift - Modeling - TensorFlow - Keras - Syst\u00e8me d'exploitation - D\u00e9tection de patients - D\u00e9solution de probl\u00e8mes - Analyste dans les syst\u00e8mes Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tab",
+        "semantic": 0.1067,
+        "skills": 0.5714,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.2373
+      },
+      {
+        "file": "Jane Doedatasc.txt",
+        "summary": "Informations personnelles: Jane Doe, 25 ans, New York, NY, janedoe@email.com, (555) 123-4567. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Data Scientist, Quantitative Research, Citadel Securities (Novembre 2021 - Present) - Financial Data Analyst, Goldman Sachs (novembbre 2017 - May 2021) - Finance & Data Platforms (Bloomberg, FactSet, Snowflake, AWS S3) - Analyste-Analyse, Portfolio Optimizer (Gitadel Securities) - Stagiaire, Stock Screener (gitadel.com) Comp\u00e9tences: de CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Python - R - SQL - MATLAB - Syst\u00e8mes d'exploitation : - Pandas, NumPy, scikit-learn, TensorFlow, statsmodels, XGBoost - Analyse graphique : - Tableau, Power BI, Excel (VBA, Power Pivot), Jupyter - Analytique :",
+        "semantic": 0.0818,
+        "skills": 0.4286,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1786
+      },
+      {
+        "file": "miggeleaccountant.txt",
+        "summary": "Informations personnelles: Miguel Herrera, 25 ans, habite \u00e0 Miami, FL, et peut \u00eatre contact\u00e9 par email \u00e0 miguel.herrera.cpa@gmail.com ou par t\u00e9l\u00e9phone au (305) 455-2929. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Miguel Herrera : - Senior Accountant, Seaside Logistics (Miami, FL) - Senior Assistant, Deloitte (Irvine, FL), (2015-2019) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Gestion de projet - Reporting - Audit - Support & Internal Controls - Excel - PowerPoint - VLOOKUP - Power Query - Python - SQL - Automatisation - Reporting Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en Accounting (Facult\u00e9 des Sciences, Universit\u00e9 de la Maroc) - Dipl\u00f4me d'\u00c9tudes Universitaires G\u00e9n\u00e9rales (Dipl\u00f4mes Universit",
+        "semantic": 0.0552,
+        "skills": 0.2857,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1193
+      },
+      {
+        "file": "12065211.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0704,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0747
+      },
+      {
+        "file": "cv_37.pdf",
+        "summary": "Informations personnelles: Samoudi Anas, 20 ans, Casablanca, Morocco,imanassamoudi@gmail.com, +212695106699. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - **Front End Developer - **Fullstack Software Developer**, **SocketCo** (pas d'entreprise non sp\u00e9cifi\u00e9e) - **Stage Software Developer, **StageSoftware Engineering**, *StageSoftware Engineer, **Application Developer** - **Application Software Developer\", **Stage Stage**, [pas dans une sp\u00e9cialit\u00e9 non sp\u00e9rifi\u00e9e] Comp\u00e9tences: mentionn\u00e9s dans un CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tenc\u00e9es d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - D\u00e9veloppement frontend - Programmation backend - Conception backend - Gestion de base de donn\u00e9s - D\u00e9solution de syst\u00e8mes d'exploitation - Conseil d'applic",
+        "semantic": 0.0243,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0585
+      },
+      {
+        "file": "jatdev.txt",
+        "summary": "Informations personnelles: Je ne peux pas extraire de CV dans le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Je ne vois pas d'informations disponibles dans votre message claire et concise : - Java Developer, Arizona City, az (entreprise non sp\u00e9cifi\u00e9e) - Java developer, infosys, charlotte, nc Comp\u00e9tences: mentionn\u00e9es sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Spring - hibernate - J2EE - Spring Framework - Angular.js - Eclipse - Toad - Works - Netbeans - MySQL - MySQL Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. Baccalaur\u00e9at en Computer Science (Lyc\u00e9e d'\u00e9tudes universitaires de texas, dallas, tx) - 2011 2. Dipl\u00f4me en G\u00e9nie Informatique (Gpa) en Java (3.6/4.0) - 2016 3. Licence en Java/J2EE",
+        "semantic": 0.0,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.05
+      },
+      {
+        "file": "10945968.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1085,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.038
+      },
+      {
+        "file": "10674770.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1075,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0376
+      },
+      {
+        "file": "10554236.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0891,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0312
+      },
+      {
+        "file": "11995013.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0764,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0267
+      },
+      {
+        "file": "cv_42.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0524,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0183
+      },
+      {
+        "file": "cv_43.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0485,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.017
+      },
+      {
+        "file": "11169163.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0376,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0132
+      },
+      {
+        "file": "10567764.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0365,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0128
+      },
+      {
+        "file": "11555549.pdf",
+        "summary": "Informations personnelles: Je n'ai trouv\u00e9 aucune information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Stagiaire, [Entreprise non sp\u00e9cifi\u00e9e] - Student Teacher, [entreprise un sp\u00e9cialiste] - [Poste non sp\u00e9scifi\u00e9], [Autres postes non mentionn\u00e9s] Comp\u00e9tences: Je ne vois pas d'informations disponibles dans les r\u00e9p\u00e9titions et les comp\u00e9tes d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Adobe Creative Cloud - Illustrator - InDesign - Photoshop - Musee - Microsoft Office - Word, Excel, PowerPoint - Visual Arts - Programmation - D\u00e9veloppement - Gestion de projet - Design - Analyse de donc\u00e9es - Design d'applications Formation: avec leur sp\u00e9scialit\u00e9, \u00e9tablissement et ann\u00e9e : - Licensure, Visual Arts, PK-12 (Ohio Teaching) - Dipl\u00f4me d'\u00c9",
+        "semantic": 0.0218,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0076
+      },
+      {
+        "file": "mangem.txt",
+        "summary": "Informations personnelles: Je ne peux pas extraire du CV en une seule phrase claire et concise : \"Leo Jast, 27596, mosciski pike, dallas, tx, +1 (555) 464 0528.\" Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Emergency management coordinator, snei sd new york, ny (09/2015-present) - emergency management policy analyst, phoenix, az (07/2008 - 06/2015) - personnel, acoms/asccs/drus, army secretariat, joint command system, homeland security, exercise and evaluation program - personnel personnel, Acoms, Asccs, Gens, etc. Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Administration - Planning - D\u00e9veloppement - Analyse - Programmation (Ar525-27, dodi 6055.17) - Design (Gestion) - Gestion de projet (Dodi) - Planification (nonmaterial, nonmaterial,",
+        "semantic": 0.0207,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0072
+      },
+      {
+        "file": "11163645.pdf",
+        "summary": "Informations personnelles: Je n'ai pas trouv\u00e9 d'information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : * Commercial Auto Underwriter, [Entreprise non sp\u00e9cifi\u00e9e] * Personal Auto-Underwriter, (entreprise un sp\u00e9cialis\u00e9e) Comp\u00e9tences: Je ne vois pas d'informations disponibles sur les r\u00e9p\u00e9titions sur les informations dispontibles sur la liste des projets list\u00e9s pr\u00e9c\u00e9demment : * Analyse * D\u00e9veloppement * Administration * Gestion de projet * Administration Notez que vous avez fourni \u00e9vitant les d\u00e9taill\u00e9s ou les comp\u00e9titions \u00e9clair\u00e9es sur les comp\u00e9sent\u00e9s sur les entreprises et les employ\u00e9s.",
+        "semantic": 0.0185,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0065
+      },
+      {
+        "file": "11360471.pdf",
+        "summary": "Informations personnelles: \u00e2ge non sp\u00e9cifi\u00e9, \u00c2 d'apr\u00e8s les informations professionnelles dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tences d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - **Gestionnaire** - **D\u00e9veloppeur** (entreprise non pr\u00e9cis\u00e9e) - **Electric palette jack operator** (certified) - * **D\u00e9tectionnaire** (Certified) * * **Dipl\u00f4me d'\u00c9tudes Universitaires Scientifiques et Techniques (DEUST)** (ann\u00e9e non pr\u00e9sent\u00e9e) * **Assistant Technicien** (Entreprise Non pr\u00e9cise) * (Certific\u00e9 d'\u00e9tudes universitaires scientifiques pour les \u00e9tudiants de l'\u00e9tablissement) * [Cert\u00e9 de d\u00e9veloppement** (Acc\u00e8s \u00e0 l'Etude Universitaire Scientifique et Techniques dans les entreprises et les entresprises) *",
+        "semantic": 0.0185,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0065
+      },
+      {
+        "file": "11137306.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0179,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0063
+      },
+      {
+        "file": "11759079.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0158,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0055
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31T15:25:10.159808",
+    "job": {
+      "description": "nous recruitons un accountant ",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "accountant"
+      ],
+      "min_experience_years": 2,
+      "max_experience_years": 5,
+      "required_skills": [
+        "sql"
+      ]
+    },
+    "num_resumes": 2,
+    "matched_candidates": [
+      {
+        "file": "cv_41.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0568,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.8699
+      },
+      {
+        "file": "cv_40.pdf",
+        "summary": "Informations personnelles: Dammak Omar, 25 ans, r\u00e9sidant \u00e0 Ariena, omardammak91@hotmail.fr, 25 570 430 & 55 464 770. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Sous-traitant \u00e0 Ooredoo Tunisie-Sfax, Soci\u00e9t\u00e9 R\u00e9gionale de Transport du Transport du Equipeurgouvernorat de Sfax (SORETRAS) - Stage de Technicien \u00e0 Tunisie Telecom (Titulie Telecom) - Stagiaire \u00e0 Tofilie Telecom - Stage d'Ouvrier \u00e0 Tunisi Telecom - Service Gestion des Entrep\u00f4ts (Contr\u00f4le \u00e0 la livraison) - Stratification de l'authentification SCTP (GSM, GPRS, UMTS, LTE, LTE-Advanced) - Simulation avec Omnet++/4Gsim (Gsim) - Autres projets r\u00e9alis\u00e9s : - Cloud Computing, Internet of Things, Protocoles de Mobilit\u00e9s et de S\u00e9curit\u00e9s (C2I)",
+        "semantic": 0.0,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.6
+      },
+      {
+        "file": "cv_36.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.6
+      },
+      {
+        "file": "cv_44.pdf",
+        "summary": "Informations personnelles: Seawsen Meksi, 20 ans, r\u00e9sidant \u00e0 Ksar Hellal, Monastir, Tunis, meksi.sawsan@gmail.com, +216 52912140. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : * Administration Assistant, Freelance (Freelance.tn, Tunis) * Assistant, Sotufab Meuble (Freelsance.tp, Tunis), * Assistant Manager, [Non sp\u00e9cifi\u00e9] Comp\u00e9tences: Je ne vois pas d'informations disponibles sur le CV fourni, mais je vais extraire les informations disponsibles sur les projets list\u00e9s pr\u00e9c\u00e9demment : - Pack Office - Gestion de projet - Communication - D\u00e9veloppement d'applications - Suivi de communication - Communication avec les clients - Collaboration avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en International Marketing (Beijing Polytechnique, Chine) - Dipl\u00f4",
+        "semantic": 0.1409,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5493
+      },
+      {
+        "file": "leila El Hachimifinanceanalyst.txt",
+        "summary": "Informations personnelles: Leila El Hachimi, 20 ans, Casablanca, leila.hachimi@financepro.ma, +212 6 77 66 55 44. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Financial Analyst, Attijariwafa Bank (Casablanca) - Analyste de donn\u00e9es, [Entreprise non sp\u00e9cifi\u00e9e] Comp\u00e9tences: mentionn\u00e9 dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Excel - Power BI - SAP - Financial Modeling, Budgeting, Forecasting - IFRS, Moroccan GAAP - Accounting - Analyse - D\u00e9veloppement logiciel - Gestion de projet Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. Master en Finance, ISCAE - Casabanca (2020-2022) 2. Bachelor en Business Administration, ENCG Settat (2018-2019) 3. Baccalaur\u00e9at en Finance (2019-2025) Langues: parl\u00e9es selon le CV",
+        "semantic": 0.1088,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5381
+      },
+      {
+        "file": "IMANE BENALIfinance.txt",
+        "summary": "Informations personnelles: IMANE BENALI, 20 ans, Casablanca, imane.benali@example.com, +212 672-112233. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Finance Intern, Attijariwafa Bank (Casablanca) - Financial Analyst, [Entreprise non sp\u00e9cifi\u00e9e] - [Autres postes non mentionn\u00e9s] Comp\u00e9tences: Je n'ai trouv\u00e9 aucune information sur le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - MS Excel - Excel - Power BI - SAP, QuickBooks - Risk Analysis - Financial Modeling - Analyse - Gestion de projet - Reporting - D\u00e9veloppement d'applications - Analyste d'analyse - Syst\u00e8mes d'exploitation Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. **Master\u2019s in Finance and Auditing**, \u00c9cole d'ENCG Settat (2022) 2.",
+        "semantic": 0.0614,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5215
+      },
+      {
+        "file": "cv_38.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0338,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5118
+      },
+      {
+        "file": "cv_39.pdf",
+        "summary": "Informations personnelles: Fares Morad, 24 ans, habite \u00e0 Hay Riad essalam, et peut \u00eatre contact\u00e9 par email \u00e0 fares.sih@gmail.com ou par t\u00e9l\u00e9phone au 0 161 5-B5E 0N7I 3M3E 1L0LA. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Field planner / Commissioning Scheduler, JACOBS Engineering SA - Project control, Jorf Lasfar - (Poste non sp\u00e9cifi\u00e9), Menara Pr\u00e9fa - (Pas d'entreprise mentionn\u00e9e) Comp\u00e9tences: parl\u00e9es selon le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9titions d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Cost accounting - General accounting - Quality management - Analyse - Data analysis - Risk management -Operational research - Primavera - MS Project - AutoCAD - C++ - Visual Studio - Visual Design -",
+        "semantic": 0.0,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5
+      },
+      {
+        "file": "12065211.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3191,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.4617
+      },
+      {
+        "file": "miggeleaccountant.txt",
+        "summary": "Informations personnelles: Miguel Herrera, 25 ans, habite \u00e0 Miami, FL, et peut \u00eatre contact\u00e9 par email \u00e0 miguel.herrera.cpa@gmail.com ou par t\u00e9l\u00e9phone au (305) 455-2929. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Miguel Herrera : - Senior Accountant, Seaside Logistics (Miami, FL) - Senior Assistant, Deloitte (Irvine, FL), (2015-2019) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Gestion de projet - Reporting - Audit - Support & Internal Controls - Excel - PowerPoint - VLOOKUP - Power Query - Python - SQL - Automatisation - Reporting Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en Accounting (Facult\u00e9 des Sciences, Universit\u00e9 de la Maroc) - Dipl\u00f4me d'\u00c9tudes Universitaires G\u00e9n\u00e9rales (Dipl\u00f4mes Universit",
+        "semantic": 0.2963,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.4537
+      },
+      {
+        "file": "Jane Doedatasc.txt",
+        "summary": "Informations personnelles: Jane Doe, 25 ans, New York, NY, janedoe@email.com, (555) 123-4567. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Data Scientist, Quantitative Research, Citadel Securities (Novembre 2021 - Present) - Financial Data Analyst, Goldman Sachs (novembbre 2017 - May 2021) - Finance & Data Platforms (Bloomberg, FactSet, Snowflake, AWS S3) - Analyste-Analyse, Portfolio Optimizer (Gitadel Securities) - Stagiaire, Stock Screener (gitadel.com) Comp\u00e9tences: de CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Python - R - SQL - MATLAB - Syst\u00e8mes d'exploitation : - Pandas, NumPy, scikit-learn, TensorFlow, statsmodels, XGBoost - Analyse graphique : - Tableau, Power BI, Excel (VBA, Power Pivot), Jupyter - Analytique :",
+        "semantic": 0.0559,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.3696
+      },
+      {
+        "file": "jatdev.txt",
+        "summary": "Informations personnelles: Je ne peux pas extraire de CV dans le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Je ne vois pas d'informations disponibles dans votre message claire et concise : - Java Developer, Arizona City, az (entreprise non sp\u00e9cifi\u00e9e) - Java developer, infosys, charlotte, nc Comp\u00e9tences: mentionn\u00e9es sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Spring - hibernate - J2EE - Spring Framework - Angular.js - Eclipse - Toad - Works - Netbeans - MySQL - MySQL Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. Baccalaur\u00e9at en Computer Science (Lyc\u00e9e d'\u00e9tudes universitaires de texas, dallas, tx) - 2011 2. Dipl\u00f4me en G\u00e9nie Informatique (Gpa) en Java (3.6/4.0) - 2016 3. Licence en Java/J2EE",
+        "semantic": 0.0267,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.3593
+      },
+      {
+        "file": "John Pateldataschealth.txt",
+        "summary": "Informations personnelles: Leila Kim, 26 ans, r\u00e9sidant \u00e0 Boston, MA, lisa.kim.analytics@gmail.com, (310) 234-5566. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : 1. Data Science + Marketing/Customer Analytics**,Lisa Kim (Los Angeles, CA) 2. Customer Analytics + Customer Analytics *, (aucuniversit\u00e9 non sp\u00e9cifi\u00e9e) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9titions d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Analyse - D\u00e9veloppement - Mod\u00e9lisation - Gestion de projet - Optimization - Optimisation - R - Uplift - Modeling - TensorFlow - Keras - Syst\u00e8me d'exploitation - D\u00e9tection de patients - D\u00e9solution de probl\u00e8mes - Analyste dans les syst\u00e8mes Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tab",
+        "semantic": 0.0073,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.3526
+      },
+      {
+        "file": "Mehdi El Idrissicomptab.txt",
+        "summary": "Informations personnelles: Mehdi El Idrissi, 6 ans, r\u00e9sidant \u00e0 Casablanca, Maroc, peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +212 6 78 45 32 19 ou par email \u00e0 mehdi.elidrismi@financepro.ma. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Assistant Comptable, Groupe Alpha Distribution (2019-Pr\u00e9sent) - Assistant comptable (2016-2019) - Fiduciaire Atlas (2016) - Pr\u00e9paration des d\u00e9clarations fiscales marocaines, CNSS (2017-2018)",
+        "semantic": 0.2737,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.3458
+      },
+      {
+        "file": "amarkt2.txt",
+        "summary": "Informations personnelles: Lucas Martin, \u00e2g\u00e9 de 24 ans, est originaire de San Francisco, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +1 415 555 1234 ou par email \u00e0 lucas.martin@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Marketing Specialist,BrightWave Media (San Francisco) - Marketing Coordinator,Global Tech Solutions (Sant\u00e9, San Francisco)",
+        "semantic": 0.0784,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.2774
+      },
+      {
+        "file": "amark.txt",
+        "summary": "Informations personnelles: Emma Dupont, 25 ans, r\u00e9sidant \u00e0 Paris, France, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +33 6 12 34 56 78 ou par email \u00e0emma.dupont@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Emma Dupont : *Marketing Specialist, ABC Digital Agency, Paris * Marketing Assistant,XYZ Corp, Paris Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9ten\u00e7ues d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - SEO - SEO (Search Engine Optimization) - Content Creation - Copywriting - Google Analytics - SEMrush - Marketing artificielle - Social Media Marketing - SEO Optimization - SEO Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Bachelors en Marketing, Universit\u00e9 Paris-Dauphine (2017-2018) - Dipl\u00f4me en Business Administration, Universitaire",
+        "semantic": 0.0618,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.2716
+      },
+      {
+        "file": "10554236.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3133,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1097
+      },
+      {
+        "file": "11163645.pdf",
+        "summary": "Informations personnelles: Je n'ai pas trouv\u00e9 d'information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : * Commercial Auto Underwriter, [Entreprise non sp\u00e9cifi\u00e9e] * Personal Auto-Underwriter, (entreprise un sp\u00e9cialis\u00e9e) Comp\u00e9tences: Je ne vois pas d'informations disponibles sur les r\u00e9p\u00e9titions sur les informations dispontibles sur la liste des projets list\u00e9s pr\u00e9c\u00e9demment : * Analyse * D\u00e9veloppement * Administration * Gestion de projet * Administration Notez que vous avez fourni \u00e9vitant les d\u00e9taill\u00e9s ou les comp\u00e9titions \u00e9clair\u00e9es sur les comp\u00e9sent\u00e9s sur les entreprises et les employ\u00e9s.",
+        "semantic": 0.3025,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1059
+      },
+      {
+        "file": "10674770.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2675,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0936
+      },
+      {
+        "file": "cv_43.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.258,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0903
+      },
+      {
+        "file": "11759079.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2451,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0858
+      },
+      {
+        "file": "11995013.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1259,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0441
+      },
+      {
+        "file": "10945968.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0933,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0327
+      },
+      {
+        "file": "11169163.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0891,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0312
+      },
+      {
+        "file": "10567764.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0887,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.031
+      },
+      {
+        "file": "cv_42.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0792,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0277
+      },
+      {
+        "file": "11137306.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0509,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0178
+      },
+      {
+        "file": "cv_37.pdf",
+        "summary": "Informations personnelles: Samoudi Anas, 20 ans, Casablanca, Morocco,imanassamoudi@gmail.com, +212695106699. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - **Front End Developer - **Fullstack Software Developer**, **SocketCo** (pas d'entreprise non sp\u00e9cifi\u00e9e) - **Stage Software Developer, **StageSoftware Engineering**, *StageSoftware Engineer, **Application Developer** - **Application Software Developer\", **Stage Stage**, [pas dans une sp\u00e9cialit\u00e9 non sp\u00e9rifi\u00e9e] Comp\u00e9tences: mentionn\u00e9s dans un CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tenc\u00e9es d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - D\u00e9veloppement frontend - Programmation backend - Conception backend - Gestion de base de donn\u00e9s - D\u00e9solution de syst\u00e8mes d'exploitation - Conseil d'applic",
+        "semantic": 0.0437,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0153
+      },
+      {
+        "file": "11360471.pdf",
+        "summary": "Informations personnelles: \u00e2ge non sp\u00e9cifi\u00e9, \u00c2 d'apr\u00e8s les informations professionnelles dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tences d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - **Gestionnaire** - **D\u00e9veloppeur** (entreprise non pr\u00e9cis\u00e9e) - **Electric palette jack operator** (certified) - * **D\u00e9tectionnaire** (Certified) * * **Dipl\u00f4me d'\u00c9tudes Universitaires Scientifiques et Techniques (DEUST)** (ann\u00e9e non pr\u00e9sent\u00e9e) * **Assistant Technicien** (Entreprise Non pr\u00e9cise) * (Certific\u00e9 d'\u00e9tudes universitaires scientifiques pour les \u00e9tudiants de l'\u00e9tablissement) * [Cert\u00e9 de d\u00e9veloppement** (Acc\u00e8s \u00e0 l'Etude Universitaire Scientifique et Techniques dans les entreprises et les entresprises) *",
+        "semantic": 0.0245,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0086
+      },
+      {
+        "file": "11555549.pdf",
+        "summary": "Informations personnelles: Je n'ai trouv\u00e9 aucune information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Stagiaire, [Entreprise non sp\u00e9cifi\u00e9e] - Student Teacher, [entreprise un sp\u00e9cialiste] - [Poste non sp\u00e9scifi\u00e9], [Autres postes non mentionn\u00e9s] Comp\u00e9tences: Je ne vois pas d'informations disponibles dans les r\u00e9p\u00e9titions et les comp\u00e9tes d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Adobe Creative Cloud - Illustrator - InDesign - Photoshop - Musee - Microsoft Office - Word, Excel, PowerPoint - Visual Arts - Programmation - D\u00e9veloppement - Gestion de projet - Design - Analyse de donc\u00e9es - Design d'applications Formation: avec leur sp\u00e9scialit\u00e9, \u00e9tablissement et ann\u00e9e : - Licensure, Visual Arts, PK-12 (Ohio Teaching) - Dipl\u00f4me d'\u00c9",
+        "semantic": 0.0241,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0084
+      },
+      {
+        "file": "mangem.txt",
+        "summary": "Informations personnelles: Je ne peux pas extraire du CV en une seule phrase claire et concise : \"Leo Jast, 27596, mosciski pike, dallas, tx, +1 (555) 464 0528.\" Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Emergency management coordinator, snei sd new york, ny (09/2015-present) - emergency management policy analyst, phoenix, az (07/2008 - 06/2015) - personnel, acoms/asccs/drus, army secretariat, joint command system, homeland security, exercise and evaluation program - personnel personnel, Acoms, Asccs, Gens, etc. Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Administration - Planning - D\u00e9veloppement - Analyse - Programmation (Ar525-27, dodi 6055.17) - Design (Gestion) - Gestion de projet (Dodi) - Planification (nonmaterial, nonmaterial,",
+        "semantic": 0.0046,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0016
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31T15:44:54.102890",
+    "job": {
+      "description": "nous recruitons un accountant ",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "accountant"
+      ],
+      "min_experience_years": 2,
+      "max_experience_years": 5,
+      "required_skills": [
+        "sql"
+      ]
+    },
+    "num_resumes": 2,
+    "matched_candidates": [
+      {
+        "file": "cv_41.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0568,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.8699
+      },
+      {
+        "file": "cv_40.pdf",
+        "summary": "Informations personnelles: Dammak Omar, 25 ans, r\u00e9sidant \u00e0 Ariena, omardammak91@hotmail.fr, 25 570 430 & 55 464 770. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Sous-traitant \u00e0 Ooredoo Tunisie-Sfax, Soci\u00e9t\u00e9 R\u00e9gionale de Transport du Transport du Equipeurgouvernorat de Sfax (SORETRAS) - Stage de Technicien \u00e0 Tunisie Telecom (Titulie Telecom) - Stagiaire \u00e0 Tofilie Telecom - Stage d'Ouvrier \u00e0 Tunisi Telecom - Service Gestion des Entrep\u00f4ts (Contr\u00f4le \u00e0 la livraison) - Stratification de l'authentification SCTP (GSM, GPRS, UMTS, LTE, LTE-Advanced) - Simulation avec Omnet++/4Gsim (Gsim) - Autres projets r\u00e9alis\u00e9s : - Cloud Computing, Internet of Things, Protocoles de Mobilit\u00e9s et de S\u00e9curit\u00e9s (C2I)",
+        "semantic": 0.0,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.6
+      },
+      {
+        "file": "cv_36.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.6
+      },
+      {
+        "file": "cv_44.pdf",
+        "summary": "Informations personnelles: Seawsen Meksi, 20 ans, r\u00e9sidant \u00e0 Ksar Hellal, Monastir, Tunis, meksi.sawsan@gmail.com, +216 52912140. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : * Administration Assistant, Freelance (Freelance.tn, Tunis) * Assistant, Sotufab Meuble (Freelsance.tp, Tunis), * Assistant Manager, [Non sp\u00e9cifi\u00e9] Comp\u00e9tences: Je ne vois pas d'informations disponibles sur le CV fourni, mais je vais extraire les informations disponsibles sur les projets list\u00e9s pr\u00e9c\u00e9demment : - Pack Office - Gestion de projet - Communication - D\u00e9veloppement d'applications - Suivi de communication - Communication avec les clients - Collaboration avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en International Marketing (Beijing Polytechnique, Chine) - Dipl\u00f4",
+        "semantic": 0.1409,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5493
+      },
+      {
+        "file": "leila El Hachimifinanceanalyst.txt",
+        "summary": "Informations personnelles: Leila El Hachimi, 20 ans, Casablanca, leila.hachimi@financepro.ma, +212 6 77 66 55 44. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Financial Analyst, Attijariwafa Bank (Casablanca) - Analyste de donn\u00e9es, [Entreprise non sp\u00e9cifi\u00e9e] Comp\u00e9tences: mentionn\u00e9 dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Excel - Power BI - SAP - Financial Modeling, Budgeting, Forecasting - IFRS, Moroccan GAAP - Accounting - Analyse - D\u00e9veloppement logiciel - Gestion de projet Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. Master en Finance, ISCAE - Casabanca (2020-2022) 2. Bachelor en Business Administration, ENCG Settat (2018-2019) 3. Baccalaur\u00e9at en Finance (2019-2025) Langues: parl\u00e9es selon le CV",
+        "semantic": 0.1088,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5381
+      },
+      {
+        "file": "IMANE BENALIfinance.txt",
+        "summary": "Informations personnelles: IMANE BENALI, 20 ans, Casablanca, imane.benali@example.com, +212 672-112233. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Finance Intern, Attijariwafa Bank (Casablanca) - Financial Analyst, [Entreprise non sp\u00e9cifi\u00e9e] - [Autres postes non mentionn\u00e9s] Comp\u00e9tences: Je n'ai trouv\u00e9 aucune information sur le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - MS Excel - Excel - Power BI - SAP, QuickBooks - Risk Analysis - Financial Modeling - Analyse - Gestion de projet - Reporting - D\u00e9veloppement d'applications - Analyste d'analyse - Syst\u00e8mes d'exploitation Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. **Master\u2019s in Finance and Auditing**, \u00c9cole d'ENCG Settat (2022) 2.",
+        "semantic": 0.0614,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5215
+      },
+      {
+        "file": "cv_38.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0338,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5118
+      },
+      {
+        "file": "cv_39.pdf",
+        "summary": "Informations personnelles: Fares Morad, 24 ans, habite \u00e0 Hay Riad essalam, et peut \u00eatre contact\u00e9 par email \u00e0 fares.sih@gmail.com ou par t\u00e9l\u00e9phone au 0 161 5-B5E 0N7I 3M3E 1L0LA. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Field planner / Commissioning Scheduler, JACOBS Engineering SA - Project control, Jorf Lasfar - (Poste non sp\u00e9cifi\u00e9), Menara Pr\u00e9fa - (Pas d'entreprise mentionn\u00e9e) Comp\u00e9tences: parl\u00e9es selon le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9titions d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Cost accounting - General accounting - Quality management - Analyse - Data analysis - Risk management -Operational research - Primavera - MS Project - AutoCAD - C++ - Visual Studio - Visual Design -",
+        "semantic": 0.0,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5
+      },
+      {
+        "file": "12065211.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3191,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.4617
+      },
+      {
+        "file": "miggeleaccountant.txt",
+        "summary": "Informations personnelles: Miguel Herrera, 25 ans, habite \u00e0 Miami, FL, et peut \u00eatre contact\u00e9 par email \u00e0 miguel.herrera.cpa@gmail.com ou par t\u00e9l\u00e9phone au (305) 455-2929. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Miguel Herrera : - Senior Accountant, Seaside Logistics (Miami, FL) - Senior Assistant, Deloitte (Irvine, FL), (2015-2019) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Gestion de projet - Reporting - Audit - Support & Internal Controls - Excel - PowerPoint - VLOOKUP - Power Query - Python - SQL - Automatisation - Reporting Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en Accounting (Facult\u00e9 des Sciences, Universit\u00e9 de la Maroc) - Dipl\u00f4me d'\u00c9tudes Universitaires G\u00e9n\u00e9rales (Dipl\u00f4mes Universit",
+        "semantic": 0.2963,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.4537
+      },
+      {
+        "file": "Jane Doedatasc.txt",
+        "summary": "Informations personnelles: Jane Doe, 25 ans, New York, NY, janedoe@email.com, (555) 123-4567. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Data Scientist, Quantitative Research, Citadel Securities (Novembre 2021 - Present) - Financial Data Analyst, Goldman Sachs (novembbre 2017 - May 2021) - Finance & Data Platforms (Bloomberg, FactSet, Snowflake, AWS S3) - Analyste-Analyse, Portfolio Optimizer (Gitadel Securities) - Stagiaire, Stock Screener (gitadel.com) Comp\u00e9tences: de CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Python - R - SQL - MATLAB - Syst\u00e8mes d'exploitation : - Pandas, NumPy, scikit-learn, TensorFlow, statsmodels, XGBoost - Analyse graphique : - Tableau, Power BI, Excel (VBA, Power Pivot), Jupyter - Analytique :",
+        "semantic": 0.0559,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.3696
+      },
+      {
+        "file": "jatdev.txt",
+        "summary": "Informations personnelles: Je ne peux pas extraire de CV dans le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Je ne vois pas d'informations disponibles dans votre message claire et concise : - Java Developer, Arizona City, az (entreprise non sp\u00e9cifi\u00e9e) - Java developer, infosys, charlotte, nc Comp\u00e9tences: mentionn\u00e9es sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Spring - hibernate - J2EE - Spring Framework - Angular.js - Eclipse - Toad - Works - Netbeans - MySQL - MySQL Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. Baccalaur\u00e9at en Computer Science (Lyc\u00e9e d'\u00e9tudes universitaires de texas, dallas, tx) - 2011 2. Dipl\u00f4me en G\u00e9nie Informatique (Gpa) en Java (3.6/4.0) - 2016 3. Licence en Java/J2EE",
+        "semantic": 0.0267,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.3593
+      },
+      {
+        "file": "John Pateldataschealth.txt",
+        "summary": "Informations personnelles: Leila Kim, 26 ans, r\u00e9sidant \u00e0 Boston, MA, lisa.kim.analytics@gmail.com, (310) 234-5566. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : 1. Data Science + Marketing/Customer Analytics**,Lisa Kim (Los Angeles, CA) 2. Customer Analytics + Customer Analytics *, (aucuniversit\u00e9 non sp\u00e9cifi\u00e9e) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9titions d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Analyse - D\u00e9veloppement - Mod\u00e9lisation - Gestion de projet - Optimization - Optimisation - R - Uplift - Modeling - TensorFlow - Keras - Syst\u00e8me d'exploitation - D\u00e9tection de patients - D\u00e9solution de probl\u00e8mes - Analyste dans les syst\u00e8mes Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tab",
+        "semantic": 0.0073,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.3526
+      },
+      {
+        "file": "Mehdi El Idrissicomptab.txt",
+        "summary": "Informations personnelles: Mehdi El Idrissi, 6 ans, r\u00e9sidant \u00e0 Casablanca, Maroc, peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +212 6 78 45 32 19 ou par email \u00e0 mehdi.elidrismi@financepro.ma. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Assistant Comptable, Groupe Alpha Distribution (2019-Pr\u00e9sent) - Assistant comptable (2016-2019) - Fiduciaire Atlas (2016) - Pr\u00e9paration des d\u00e9clarations fiscales marocaines, CNSS (2017-2018)",
+        "semantic": 0.2737,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.3458
+      },
+      {
+        "file": "amarkt2.txt",
+        "summary": "Informations personnelles: Lucas Martin, \u00e2g\u00e9 de 24 ans, est originaire de San Francisco, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +1 415 555 1234 ou par email \u00e0 lucas.martin@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Marketing Specialist,BrightWave Media (San Francisco) - Marketing Coordinator,Global Tech Solutions (Sant\u00e9, San Francisco)",
+        "semantic": 0.0784,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.2774
+      },
+      {
+        "file": "amark.txt",
+        "summary": "Informations personnelles: Emma Dupont, 25 ans, r\u00e9sidant \u00e0 Paris, France, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +33 6 12 34 56 78 ou par email \u00e0emma.dupont@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Emma Dupont : *Marketing Specialist, ABC Digital Agency, Paris * Marketing Assistant,XYZ Corp, Paris Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9ten\u00e7ues d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - SEO - SEO (Search Engine Optimization) - Content Creation - Copywriting - Google Analytics - SEMrush - Marketing artificielle - Social Media Marketing - SEO Optimization - SEO Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Bachelors en Marketing, Universit\u00e9 Paris-Dauphine (2017-2018) - Dipl\u00f4me en Business Administration, Universitaire",
+        "semantic": 0.0618,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.2716
+      },
+      {
+        "file": "10554236.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3133,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1097
+      },
+      {
+        "file": "11163645.pdf",
+        "summary": "Informations personnelles: Je n'ai pas trouv\u00e9 d'information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : * Commercial Auto Underwriter, [Entreprise non sp\u00e9cifi\u00e9e] * Personal Auto-Underwriter, (entreprise un sp\u00e9cialis\u00e9e) Comp\u00e9tences: Je ne vois pas d'informations disponibles sur les r\u00e9p\u00e9titions sur les informations dispontibles sur la liste des projets list\u00e9s pr\u00e9c\u00e9demment : * Analyse * D\u00e9veloppement * Administration * Gestion de projet * Administration Notez que vous avez fourni \u00e9vitant les d\u00e9taill\u00e9s ou les comp\u00e9titions \u00e9clair\u00e9es sur les comp\u00e9sent\u00e9s sur les entreprises et les employ\u00e9s.",
+        "semantic": 0.3025,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1059
+      },
+      {
+        "file": "10674770.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2675,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0936
+      },
+      {
+        "file": "cv_43.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.258,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0903
+      },
+      {
+        "file": "11759079.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2451,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0858
+      },
+      {
+        "file": "11995013.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1259,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0441
+      },
+      {
+        "file": "10945968.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0933,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0327
+      },
+      {
+        "file": "11169163.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0891,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0312
+      },
+      {
+        "file": "10567764.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0887,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.031
+      },
+      {
+        "file": "cv_42.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0792,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0277
+      },
+      {
+        "file": "11137306.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0509,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0178
+      },
+      {
+        "file": "cv_37.pdf",
+        "summary": "Informations personnelles: Samoudi Anas, 20 ans, Casablanca, Morocco,imanassamoudi@gmail.com, +212695106699. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - **Front End Developer - **Fullstack Software Developer**, **SocketCo** (pas d'entreprise non sp\u00e9cifi\u00e9e) - **Stage Software Developer, **StageSoftware Engineering**, *StageSoftware Engineer, **Application Developer** - **Application Software Developer\", **Stage Stage**, [pas dans une sp\u00e9cialit\u00e9 non sp\u00e9rifi\u00e9e] Comp\u00e9tences: mentionn\u00e9s dans un CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tenc\u00e9es d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - D\u00e9veloppement frontend - Programmation backend - Conception backend - Gestion de base de donn\u00e9s - D\u00e9solution de syst\u00e8mes d'exploitation - Conseil d'applic",
+        "semantic": 0.0437,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0153
+      },
+      {
+        "file": "11360471.pdf",
+        "summary": "Informations personnelles: \u00e2ge non sp\u00e9cifi\u00e9, \u00c2 d'apr\u00e8s les informations professionnelles dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tences d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - **Gestionnaire** - **D\u00e9veloppeur** (entreprise non pr\u00e9cis\u00e9e) - **Electric palette jack operator** (certified) - * **D\u00e9tectionnaire** (Certified) * * **Dipl\u00f4me d'\u00c9tudes Universitaires Scientifiques et Techniques (DEUST)** (ann\u00e9e non pr\u00e9sent\u00e9e) * **Assistant Technicien** (Entreprise Non pr\u00e9cise) * (Certific\u00e9 d'\u00e9tudes universitaires scientifiques pour les \u00e9tudiants de l'\u00e9tablissement) * [Cert\u00e9 de d\u00e9veloppement** (Acc\u00e8s \u00e0 l'Etude Universitaire Scientifique et Techniques dans les entreprises et les entresprises) *",
+        "semantic": 0.0245,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0086
+      },
+      {
+        "file": "11555549.pdf",
+        "summary": "Informations personnelles: Je n'ai trouv\u00e9 aucune information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Stagiaire, [Entreprise non sp\u00e9cifi\u00e9e] - Student Teacher, [entreprise un sp\u00e9cialiste] - [Poste non sp\u00e9scifi\u00e9], [Autres postes non mentionn\u00e9s] Comp\u00e9tences: Je ne vois pas d'informations disponibles dans les r\u00e9p\u00e9titions et les comp\u00e9tes d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Adobe Creative Cloud - Illustrator - InDesign - Photoshop - Musee - Microsoft Office - Word, Excel, PowerPoint - Visual Arts - Programmation - D\u00e9veloppement - Gestion de projet - Design - Analyse de donc\u00e9es - Design d'applications Formation: avec leur sp\u00e9scialit\u00e9, \u00e9tablissement et ann\u00e9e : - Licensure, Visual Arts, PK-12 (Ohio Teaching) - Dipl\u00f4me d'\u00c9",
+        "semantic": 0.0241,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0084
+      },
+      {
+        "file": "mangem.txt",
+        "summary": "Informations personnelles: Je ne peux pas extraire du CV en une seule phrase claire et concise : \"Leo Jast, 27596, mosciski pike, dallas, tx, +1 (555) 464 0528.\" Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Emergency management coordinator, snei sd new york, ny (09/2015-present) - emergency management policy analyst, phoenix, az (07/2008 - 06/2015) - personnel, acoms/asccs/drus, army secretariat, joint command system, homeland security, exercise and evaluation program - personnel personnel, Acoms, Asccs, Gens, etc. Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Administration - Planning - D\u00e9veloppement - Analyse - Programmation (Ar525-27, dodi 6055.17) - Design (Gestion) - Gestion de projet (Dodi) - Planification (nonmaterial, nonmaterial,",
+        "semantic": 0.0046,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0016
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31T15:54:06.017907",
+    "job": {
+      "description": "nous recruitons un accountant ",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "accountant"
+      ],
+      "min_experience_years": 2,
+      "max_experience_years": 5,
+      "required_skills": [
+        "sql",
+        "java"
+      ]
+    },
+    "num_resumes": 2,
+    "matched_candidates": [
+      {
+        "file": "cv_36.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.6
+      },
+      {
+        "file": "cv_37.pdf",
+        "summary": "Informations personnelles: Samoudi Anas, 20 ans, Casablanca, Morocco,imanassamoudi@gmail.com, +212695106699. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - **Front End Developer - **Fullstack Software Developer**, **SocketCo** (pas d'entreprise non sp\u00e9cifi\u00e9e) - **Stage Software Developer, **StageSoftware Engineering**, *StageSoftware Engineer, **Application Developer** - **Application Software Developer\", **Stage Stage**, [pas dans une sp\u00e9cialit\u00e9 non sp\u00e9rifi\u00e9e] Comp\u00e9tences: mentionn\u00e9s dans un CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tenc\u00e9es d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - D\u00e9veloppement frontend - Programmation backend - Conception backend - Gestion de base de donn\u00e9s - D\u00e9solution de syst\u00e8mes d'exploitation - Conseil d'applic",
+        "semantic": 0.0437,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0153
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31T16:25:33.732917",
+    "job": {
+      "description": "nous recruitons un ancountant",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "marketing",
+        "business administration",
+        "communications"
+      ],
+      "min_experience_years": 3,
+      "max_experience_years": 9,
+      "required_skills": [
+        "seo",
+        "content creation"
+      ]
+    },
+    "num_resumes": 2,
+    "matched_candidates": [
+      {
+        "file": "10554236.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1203,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0421
+      },
+      {
+        "file": "10567764.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0497,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0174
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31T16:36:30.878642",
+    "job": {
+      "description": "accountant ",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "marketing",
+        "business administration",
+        "communications"
+      ],
+      "min_experience_years": 3,
+      "max_experience_years": 7,
+      "required_skills": [
+        "seo",
+        "content creation"
+      ]
+    },
+    "num_resumes": 3,
+    "matched_candidates": [
+      {
+        "file": "10554236.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3114,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.109
+      },
+      {
+        "file": "10674770.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2527,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0884
+      },
+      {
+        "file": "10567764.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0226,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0079
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-31T16:41:01.545728",
+    "job": {
+      "description": "accountant ",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "marketing",
+        "business administration",
+        "communications"
+      ],
+      "min_experience_years": 3,
+      "max_experience_years": 7,
+      "required_skills": [
+        "seo",
+        "content creation"
+      ]
+    },
+    "num_resumes": 3,
+    "matched_candidates": [
+      {
+        "file": "10554236.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3114,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.109
+      },
+      {
+        "file": "10674770.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2527,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0884
+      },
+      {
+        "file": "10567764.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0226,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0079
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01T10:58:09.582143",
+    "job": {
+      "description": "Nous recherchons un comptable polyvalent avec une sensibilit\u00e9 marketing pour rejoindre notre \u00e9quipe dynamique. Le candidat id\u00e9al saura non seulement g\u00e9rer les finances avec rigueur, mais aussi contribuer \u00e0 notre strat\u00e9gie de contenu et \u00e0 notre visibilit\u00e9 digitale.\n\nResponsabilit\u00e9s :\n\nTenue de la comptabilit\u00e9 g\u00e9n\u00e9rale et analytique.\n\nPr\u00e9paration des bilans et rapports financiers mensuels.\n\nParticipation \u00e0 la strat\u00e9gie de contenu li\u00e9e \u00e0 la communication financi\u00e8re.\n\nContribution \u00e0 la visibilit\u00e9 en ligne gr\u00e2ce \u00e0 des comp\u00e9tences en SEO.\n\nCollaboration \u00e9troite avec les \u00e9quipes marketing et communication.",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "phd",
+      "preferred_fields": [
+        "marketing",
+        "business administration",
+        "communications"
+      ],
+      "min_experience_years": 0,
+      "max_experience_years": 5,
+      "required_skills": [
+        "seo",
+        "content creation"
+      ]
+    },
+    "num_resumes": 5,
+    "matched_candidates": [
+      {
+        "file": "amark.txt",
+        "summary": "Informations personnelles: Emma Dupont, 25 ans, r\u00e9sidant \u00e0 Paris, France, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +33 6 12 34 56 78 ou par email \u00e0emma.dupont@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Emma Dupont : *Marketing Specialist, ABC Digital Agency, Paris * Marketing Assistant,XYZ Corp, Paris Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9ten\u00e7ues d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - SEO - SEO (Search Engine Optimization) - Content Creation - Copywriting - Google Analytics - SEMrush - Marketing artificielle - Social Media Marketing - SEO Optimization - SEO Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Bachelors en Marketing, Universit\u00e9 Paris-Dauphine (2017-2018) - Dipl\u00f4me en Business Administration, Universitaire",
+        "semantic": 0.4192,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.7467
+      },
+      {
+        "file": "amarkt2.txt",
+        "summary": "Informations personnelles: Lucas Martin, \u00e2g\u00e9 de 24 ans, est originaire de San Francisco, et peut \u00eatre contact\u00e9 par t\u00e9l\u00e9phone au +1 415 555 1234 ou par email \u00e0 lucas.martin@email.com. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Marketing Specialist,BrightWave Media (San Francisco) - Marketing Coordinator,Global Tech Solutions (Sant\u00e9, San Francisco)",
+        "semantic": 0.3309,
+        "skills": 1.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.5,
+        "final": 0.7158
+      },
+      {
+        "file": "leila El Hachimifinanceanalyst.txt",
+        "summary": "Informations personnelles: Leila El Hachimi, 20 ans, Casablanca, leila.hachimi@financepro.ma, +212 6 77 66 55 44. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles : - Financial Analyst, Attijariwafa Bank (Casablanca) - Analyste de donn\u00e9es, [Entreprise non sp\u00e9cifi\u00e9e] Comp\u00e9tences: mentionn\u00e9 dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Excel - Power BI - SAP - Financial Modeling, Budgeting, Forecasting - IFRS, Moroccan GAAP - Accounting - Analyse - D\u00e9veloppement logiciel - Gestion de projet Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : 1. Master en Finance, ISCAE - Casabanca (2020-2022) 2. Bachelor en Business Administration, ENCG Settat (2018-2019) 3. Baccalaur\u00e9at en Finance (2019-2025) Langues: parl\u00e9es selon le CV",
+        "semantic": 0.3807,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.6332
+      },
+      {
+        "file": "NABIL HASSANIfullstackdev.txt",
+        "summary": "Informations personnelles: Nabil Hassani, 20 ans, Rabat, nabil.hassani.dev@gmail.com, +212 664-778899. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Nabil Hassan : -Software Engineer, Digistart (Rabat, Morocco) - Backend Developer (Intern, Casablanca, Jul 2021 - Feb 2022) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Python - JavaScript - Django - React - Git - Docker - CI/CD - MongoDB - PostgreSQL - MySQL - JWT - Authentication - MySQL Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en Sciences Math\u00e9matiques (PEACE) - Dipl\u00f4me d'\u00c9tudes Universitaires G\u00e9n\u00e9rales (DEUG) en Sciences Physiques (EUG) - Licence en Ing\u00e9nierie Informatique (FEUG) Langues: parl\u00e9es selon le CV : 1.",
+        "semantic": 0.0667,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 1.0,
+        "final": 0.5233
+      },
+      {
+        "file": "miggeleaccountant.txt",
+        "summary": "Informations personnelles: Miguel Herrera, 25 ans, habite \u00e0 Miami, FL, et peut \u00eatre contact\u00e9 par email \u00e0 miguel.herrera.cpa@gmail.com ou par t\u00e9l\u00e9phone au (305) 455-2929. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles de Miguel Herrera : - Senior Accountant, Seaside Logistics (Miami, FL) - Senior Assistant, Deloitte (Irvine, FL), (2015-2019) Comp\u00e9tences: mentionn\u00e9es dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions : - Gestion de projet - Reporting - Audit - Support & Internal Controls - Excel - PowerPoint - VLOOKUP - Power Query - Python - SQL - Automatisation - Reporting Formation: avec leur sp\u00e9cialit\u00e9, \u00e9tablissement et ann\u00e9e : - Baccalaur\u00e9at en Accounting (Facult\u00e9 des Sciences, Universit\u00e9 de la Maroc) - Dipl\u00f4me d'\u00c9tudes Universitaires G\u00e9n\u00e9rales (Dipl\u00f4mes Universit",
+        "semantic": 0.4198,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1469
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-05T10:44:25.360720",
+    "job": {
+      "description": "Nous recherchons un(e) professionnel(le) motiv\u00e9(e) et polyvalent(e) pour occuper un poste hybride m\u00ealant finance d\u2019entreprise et ventes. Cette personne jouera un r\u00f4le cl\u00e9 dans l\u2019\u00e9laboration de strat\u00e9gies de croissance, l\u2019analyse financi\u00e8re des performances commerciales et le d\u00e9veloppement des ventes aupr\u00e8s des clients cl\u00e9s.\n\nResponsabilit\u00e9s :\n- \u00c9laborer et suivre les budgets, les pr\u00e9visions et les rapports financiers mensuels.\n- R\u00e9aliser des analyses de rentabilit\u00e9 des produits et services.\n- D\u00e9velopper un portefeuille clients B2B ou B2C.\n- Participer \u00e0 la n\u00e9gociation des contrats et offres commerciales.\n- Analyser les performances commerciales \u00e0 l\u2019aide d\u2019outils de BI.\n\nComp\u00e9tences requises :\n- Ma\u00eetrise d\u2019Excel, Power BI ou Tableau.\n- Connaissance des CRM (Salesforce, HubSpot).\n- Solides bases en comptabilit\u00e9, analyse financi\u00e8re, et relation client.\n- Excellente capacit\u00e9 d\u2019analyse, de synth\u00e8se et de communication.\n",
+      "required_languages": [
+        "en",
+        "fr"
+      ],
+      "required_degree": "master",
+      "preferred_fields": [
+        "finance",
+        "business administration",
+        "sales",
+        "marketing"
+      ],
+      "min_experience_years": 2,
+      "max_experience_years": 10,
+      "required_skills": [
+        "excel",
+        "power bi",
+        "sales",
+        "financial analysis",
+        "crm",
+        "budgeting",
+        "negotiation"
+      ]
+    },
+    "num_resumes": 12,
+    "matched_candidates": [
+      {
+        "file": "10674770.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3691,
+        "skills": 0.2857,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.2292
+      },
+      {
+        "file": "11995013.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.3013,
+        "skills": 0.2857,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.2054
+      },
+      {
+        "file": "11163645.pdf",
+        "summary": "Informations personnelles: Je n'ai pas trouv\u00e9 d'information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : * Commercial Auto Underwriter, [Entreprise non sp\u00e9cifi\u00e9e] * Personal Auto-Underwriter, (entreprise un sp\u00e9cialis\u00e9e) Comp\u00e9tences: Je ne vois pas d'informations disponibles sur les r\u00e9p\u00e9titions sur les informations dispontibles sur la liste des projets list\u00e9s pr\u00e9c\u00e9demment : * Analyse * D\u00e9veloppement * Administration * Gestion de projet * Administration Notez que vous avez fourni \u00e9vitant les d\u00e9taill\u00e9s ou les comp\u00e9titions \u00e9clair\u00e9es sur les comp\u00e9sent\u00e9s sur les entreprises et les employ\u00e9s.",
+        "semantic": 0.2592,
+        "skills": 0.2857,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1907
+      },
+      {
+        "file": "11759079.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.249,
+        "skills": 0.2857,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1871
+      },
+      {
+        "file": "12065211.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2976,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1542
+      },
+      {
+        "file": "11169163.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.2109,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1238
+      },
+      {
+        "file": "10554236.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.327,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1144
+      },
+      {
+        "file": "11137306.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1634,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.1072
+      },
+      {
+        "file": "11555549.pdf",
+        "summary": "Informations personnelles: Je n'ai trouv\u00e9 aucune information sur le CV fourni. Exp\u00e9rience professionnelle: Voici les exp\u00e9riences professionnelles mentionn\u00e9es dans le CV : - Stagiaire, [Entreprise non sp\u00e9cifi\u00e9e] - Student Teacher, [entreprise un sp\u00e9cialiste] - [Poste non sp\u00e9scifi\u00e9], [Autres postes non mentionn\u00e9s] Comp\u00e9tences: Je ne vois pas d'informations disponibles dans les r\u00e9p\u00e9titions et les comp\u00e9tes d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - Adobe Creative Cloud - Illustrator - InDesign - Photoshop - Musee - Microsoft Office - Word, Excel, PowerPoint - Visual Arts - Programmation - D\u00e9veloppement - Gestion de projet - Design - Analyse de donc\u00e9es - Design d'applications Formation: avec leur sp\u00e9scialit\u00e9, \u00e9tablissement et ann\u00e9e : - Licensure, Visual Arts, PK-12 (Ohio Teaching) - Dipl\u00f4me d'\u00c9",
+        "semantic": 0.1246,
+        "skills": 0.1429,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0936
+      },
+      {
+        "file": "10945968.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.1721,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0602
+      },
+      {
+        "file": "11360471.pdf",
+        "summary": "Informations personnelles: \u00e2ge non sp\u00e9cifi\u00e9, \u00c2 d'apr\u00e8s les informations professionnelles dans le CV sous forme de mots-cl\u00e9s, en \u00e9vitant les r\u00e9p\u00e9titions et en excluant les comp\u00e9tences d\u00e9j\u00e0 associ\u00e9es aux projets list\u00e9s pr\u00e9c\u00e9demment : - **Gestionnaire** - **D\u00e9veloppeur** (entreprise non pr\u00e9cis\u00e9e) - **Electric palette jack operator** (certified) - * **D\u00e9tectionnaire** (Certified) * * **Dipl\u00f4me d'\u00c9tudes Universitaires Scientifiques et Techniques (DEUST)** (ann\u00e9e non pr\u00e9sent\u00e9e) * **Assistant Technicien** (Entreprise Non pr\u00e9cise) * (Certific\u00e9 d'\u00e9tudes universitaires scientifiques pour les \u00e9tudiants de l'\u00e9tablissement) * [Cert\u00e9 de d\u00e9veloppement** (Acc\u00e8s \u00e0 l'Etude Universitaire Scientifique et Techniques dans les entreprises et les entresprises) *",
+        "semantic": 0.0976,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0342
+      },
+      {
+        "file": "10567764.pdf",
+        "summary": "[SUMMARY ERROR] index out of range in self",
+        "semantic": 0.0916,
+        "skills": 0.0,
+        "experience": 0.0,
+        "education": 0.0,
+        "language": 0.0,
+        "final": 0.0321
+      }
+    ]
+  }
+]

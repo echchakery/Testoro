@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-08-28T17:08:52.081185",
+  "job_id": "3138f0b1-6307-4fc9-b419-d6843fa12ece",
+  "resume_file": "Aya_Laadaili - Aya Laadaili_6222fb05_12a7d562.pdf",
+  "original_filename": "Aya_Laadaili - Aya Laadaili_6222fb05.pdf",
+  "match_score": {
+    "file": "Aya_Laadaili - Aya Laadaili_6222fb05_12a7d562.pdf",
+    "summary": "Aya Laadaili, , Casablanca, ayaalaadaili@gmail.com, 13 rue de provins 20310. Expérience professionnelle: Voici les expériences professionnelles de Aya Aya : - Banque Centrale Populaire BCP (JUIN 2024 - AOUT 2024) - Office national des chemins de fer ONCF (AVRIL 2023 - JUIN 2023) Compétences: mentionnées dans le CV sous forme de mots-clés, en évitant les répétitions : - Développement d'un SIEM Basé sur l IA pour la Détection et Réponse Automatisée aux Menaces en Temps Réel via WEATHERAPI - Conception d un Pipeline ETL Automatisé avec Visualisation des Données Technologies utilisées : Apache Airflow, Python, SQL, MySQL Tableau, API RESTful, Java EE, MySQL Postman - Gestion d' un Centre de Soutien Scolaire en Architecture SOA - Frameworks et bibliothèques : Spring Boot, Django, Flask, Elasticsearch, Logstash, Kibana, Docker, Kali Linux, Suricata, Beats, Apache Kafka, TheHive, Machine Learning - Langages de programmation : Java, JEE - Python - PHP - R - Framages et béthodologies : Wazuh, ELK, Stack - Elasticsearch - Logistique - Arbres de décision - Forêts aléatoires : Spark, ML, Python - Hadoop - Technologies de gestion de projet : Oracle Entreprise Ressource Planning ERP Cloud PL/SQL Oracle Database Toad Oracle Business Intelligence Publisher - Systèmes d'exploitation : IBM Cloud Flask Cloudant Kubernetes, Docker GitHub Formation:  1. **Baccalauréat en Sciences Physiques** : Anouar AlMadina (Casablanca) - 2019-2020 2. **DEUST en Informatique Mathématique et Physique** : FST Tanger Université Abdelmalek Esaadi - 2020-2022 3. **Licence en Génie Informatiques** (FST Tangers Université Abdmalek Essaadi) - 2022-2023 Langues: parlées selon le CV : - Arabe - Français - Ang",
+    "semantic": 0.10023396462202072,
+    "skills": 0.0,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 0.0,
+    "llama": 0.0,
+    "llama_expl": "Le CV ne correspond pas du tout à l'offre d'emploi de Responsable Ressources Humaines, car il décrit un profil d'étudiante en Data Science et Big Data sans expérience ni compétences dans le domaine des ressources humaines.",
+    "final": 0.0,
+    "classification": "Non classé",
+    "original_filename": "Aya_Laadaili - Aya Laadaili_6222fb05.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [],
+    "matched_languages": [
+      "ar"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar"
+    ],
+    "languages_str": "ar",
+    "matched_skills": "",
+    "matched_skills_list": [],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV ne correspond pas du tout à l'offre d'emploi de Responsable Ressources Humaines, car il décrit un profil d'étudiante en Data Science et Big Data sans expérience ni compétences dans le domaine des ressources humaines."
+  }
+}

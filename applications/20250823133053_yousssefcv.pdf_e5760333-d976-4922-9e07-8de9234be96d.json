@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-08-23T13:31:54.211631",
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "resume_file": "20250823133053_yousssefcv.pdf",
+  "original_filename": "yousssefcv.pdf",
+  "match_score": {
+    "file": "20250823133053_yousssefcv.pdf",
+    "summary": "Youssef BOUKHRIS, , Rabat, youssef.boukhris@email.com, +212 6 45 67 89 01. Expérience professionnelle:  - Assistant administratif, Societe de logistique MAROLOG (09/2022 - 08/2023) Compétences: parlées selon le CV sous forme de mots-clés, en évitant les répétitions : - Bureautique : Word, Excel, Access - Organisation administrative - Communication professionnel - Bases en gestion comptable : Excel - Archivage et classement des dossiers Formation:  1. Baccalauréat Sciences Mathématiques (Lycée Hassan II, 2019) 2. DEUG Informatique de Gestion (Université Mohammed V, 2020-2022) 3. Formation DEUG (DEUG) en informatique de gestion) Langues: - Arabe - Français - Anglais Projets réalisés: en une phrase concise, mettant uniquement en avant leur objectif et impact : - Gestion et saisie des bons de livraison : Améliorer l'efficacité des opérations financières et réduire les coûts. - Suivi des factures fournisseurs sur Excel : Augmenter l'accès aux informations et la gestion des ressources. - Saisie de donnees sur le systeme interne : Simplifier l'organisation et la communication. - Aide au traitement du courrier administrative : Simplifiant la planification et la coordination des courriers.",
+    "semantic": 0.21727943047881124,
+    "skills": 0.4,
+    "experience": 0.0,
+    "education": 0.4,
+    "language": 1.0,
+    "llama": 0.8,
+    "llama_expl": "Le candidat a un diplôme pertinent, des compétences en bureautique et une expérience dans le suivi administratif, ce qui correspond aux exigences de l'offre d'emploi, mais les champs d'expérience recherchés ne correspondent pas exactement à son parcours.",
+    "predicted_class": "Assistant administratif ou comptable",
+    "class_top_prob": 0.8,
+    "final": 0.6955,
+    "classification": "Assistant administratif ou comptable",
+    "original_filename": "yousssefcv.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "bureautique",
+      "organisation"
+    ],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "bureautique,organisation",
+    "matched_skills_list": [
+      "bureautique",
+      "organisation"
+    ],
+    "class_probs": {
+      "Assistant administratif ou comptable": 0.8
+    },
+    "matched_education": "08/2023) Gestion et saisie des bons de livraison Suivi des factures fournisseurs sur Excel Archivage et classement des dossiers Employe administratif (stage d’ete) - BMCE Bank, Rabat (2021) Aide au traitement du courrier administratif Saisie de donnees sur le systeme interne (cid:0)(cid:0) Competences Bureautique : Word, Excel, Access Organisation administrative Communication professionnelle Bases en gestion comptable (cid:0)(cid:0) Langues Arabe : langue maternelle Francais : courant Anglais : notions (A2):08/2023) Gestion et saisie des bons de livraison Suivi des factures fournisseurs sur Excel Archivage et classement des dossiers Employe administratif (stage d’ete) - BMCE Bank, Rabat (2021) Aide au traitement du courrier administratif Saisie de donnees sur le systeme interne (cid:0)(cid:0) Competences Bureautique : Word, Excel, Access Organisation administrative Communication professionnelle Bases en gestion comptable (cid:0)(cid:0) Langues Arabe : langue maternelle Francais : courant Anglais : notions (A2)",
+    "matched_education_list": [
+      {
+        "degree": "08/2023) Gestion et saisie des bons de livraison Suivi des factures fournisseurs sur Excel Archivage et classement des dossiers Employe administratif (stage d’ete) - BMCE Bank, Rabat (2021) Aide au traitement du courrier administratif Saisie de donnees sur le systeme interne (cid:0)(cid:0) Competences Bureautique : Word, Excel, Access Organisation administrative Communication professionnelle Bases en gestion comptable (cid:0)(cid:0) Langues Arabe : langue maternelle Francais : courant Anglais : notions (A2)",
+        "field": "08/2023) Gestion et saisie des bons de livraison Suivi des factures fournisseurs sur Excel Archivage et classement des dossiers Employe administratif (stage d’ete) - BMCE Bank, Rabat (2021) Aide au traitement du courrier administratif Saisie de donnees sur le systeme interne (cid:0)(cid:0) Competences Bureautique : Word, Excel, Access Organisation administrative Communication professionnelle Bases en gestion comptable (cid:0)(cid:0) Langues Arabe : langue maternelle Francais : courant Anglais : notions (A2)",
+        "year": [
+          "2022"
+        ]
+      }
+    ],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le candidat a un diplôme pertinent, des compétences en bureautique et une expérience dans le suivi administratif, ce qui correspond aux exigences de l'offre d'emploi, mais les champs d'expérience recherchés ne correspondent pas exactement à son parcours."
+  }
+}

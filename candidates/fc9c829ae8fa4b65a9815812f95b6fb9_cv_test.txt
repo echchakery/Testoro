@@ -1,0 +1,29 @@
+Mohamed El Amrani
+Casablanca, Maroc
++212 6 12 34 56 78
+mohamed.elamrani@example.com
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Mars 2020 – Juin 2023
+Data Scientist – Société Générale Maroc
+- Développement de modèles prédictifs pour l'analyse du risque client
+- Mise en place d’outils de visualisation avec Power BI et Python
+
+Janvier 2018 – Février 2020
+Analyste Données – OCP Group
+- Nettoyage et préparation de données massives (SQL, Python)
+- Analyse statistique et reporting
+
+Août 2016 – Décembre 2017
+Stage Ingénieur – Maroc Telecom
+- Automatisation des rapports hebdomadaires
+- Optimisation de requêtes SQL
+
+FORMATION
+
+2014 – 2016
+Master Spécialisé en Big Data et Analytics – Université Hassan II, Casablanca
+
+2011 – 2014
+Licence en Mathématiques Appliquées – Faculté des Sciences, Rabat

@@ -1,0 +1,25 @@
+{
+  "job_id": "8ed3eb10-671c-4a97-bc12-62cb41b7742a",
+  "job_title": "Analyste Business Intelligence Junior",
+  "description": "Nous recherchons un(e) Analyste Business Intelligence Junior pour renforcer notre \u00e9quipe Data. Vous interviendrez sur la collecte, la mod\u00e9lisation et l\u2019analyse des donn\u00e9es afin de produire des tableaux de bord op\u00e9rationnels et des rapports strat\u00e9giques. Vous travaillerez \u00e9troitement avec les \u00e9quipes marketing et produit pour identifier les KPIs et automatiser les flux de donn\u00e9es.",
+  "required_languages": [
+    "fr",
+    "en"
+  ],
+  "required_degree": "bachelor",
+  "preferred_fields": [
+    "data",
+    "business intelligence",
+    "analytics"
+  ],
+  "min_experience_years": 1,
+  "max_experience_years": 3,
+  "required_skills": [
+    "sql",
+    "python",
+    "powerbi",
+    "tableau",
+    "etl"
+  ],
+  "created_at": "2025-08-07T11:48:19.319045"
+}

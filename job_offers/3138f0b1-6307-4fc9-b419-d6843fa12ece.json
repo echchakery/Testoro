@@ -1,0 +1,36 @@
+{
+  "job_id": "3138f0b1-6307-4fc9-b419-d6843fa12ece",
+  "job_title": "RESPONSABLE RESSOURCES HUMAINES",
+  "description": "Le Responsable RH définit et met en œuvre la politique de gestion des ressources humaines, accompagne les directeurs dans le développement RH, assure le recrutement, la formation, la mobilité interne et la communication sociale. Il gère les aspects juridiques liés au travail et pilote les processus qualité RH.",
+  "required_languages": [
+    "fr"
+  ],
+  "required_degree": "licence",
+  "preferred_fields": [
+    "ressources humaines",
+    "management",
+    "organisation"
+  ],
+  "experience_fields": [
+    "responsable rh",
+    "hr manager"
+  ],
+  "min_experience_years": 2,
+  "max_experience_years": 3,
+  "required_skills": [
+    "bureautique",
+    "communication orale et écrite",
+    "capacités rédactionnelles",
+    "gestion de projet",
+    "gestion des risques",
+    "gestion réglementaire et contractuelle",
+    "gestion des compétences",
+    "techniques de communication",
+    "connaissances juridiques",
+    "formation et transmission de connaissances",
+    "maîtrise des logiciels",
+    "veille",
+    "analyse et gestion documentaire"
+  ],
+  "created_at": "2025-08-20T18:20:26.455845"
+}

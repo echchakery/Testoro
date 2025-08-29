@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-08-28T16:37:07.817569",
+  "job_id": "ee12b2d3-19c6-419f-98fd-d6597e48f5fb",
+  "resume_file": "_CV_1a3ab302.pdf",
+  "original_filename": "_CV.pdf",
+  "match_score": {
+    "file": "_CV_1a3ab302.pdf",
+    "summary": "Salma Ech-Chakery, , Casablanca, echchakerysalma@gmail.com, 06.32.73.50.90. Expérience professionnelle:  - Data Science - Data Analytics - Data Visualization (Data Viz) - Power BI - Tableau - Python - Java - JEE (Java Enterprise Edition) - Process Mining - SQL - Machine Learning (ML) - Machine Intelligence (Data Visualization) - Data Data Analytics (Power BI) - Développement logiciel (Data Analytics) - Conception de systèmes d'exploitation (Machine Learning) - Programmation (Data-Visualization) Formation:  - Diplôme d'Études Universitaires Générales (DEUG) en Data Science et Informatique (DEL) - Baccalauréat en Sciences Physiques (B2) Langues: parlées : 1. Anglais 2. Français 3. Arabe Projets réalisés:  - Amélioration de l'efficacité des processus et de la productivité des équipes. - Création d'un outil de gestion de projet pour améliorer la qualité des opérations. - Réalisation d'une plateforme de e-commerce pour faciliter les ventes.",
+    "semantic": 0.39394259452819824,
+    "skills": 1.0,
+    "experience": 0.0,
+    "education": 0.0,
+    "language": 1.0,
+    "llama": 0.6,
+    "llama_expl": "Le CV correspond partiellement à l'offre d'emploi, car le candidat possède certaines compétences requises comme Power BI, Tableau et Python, mais il manque d'expérience dans le domaine et son objectif est de trouver un stage, ce qui ne correspond pas aux 2-5 ans d'expérience exigés.",
+    "final": 0.5645,
+    "classification": "Non classé",
+    "original_filename": "_CV.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [
+      "power bi",
+      "python",
+      "tableau"
+    ],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "power bi,python,tableau",
+    "matched_skills_list": [
+      "power bi",
+      "python",
+      "tableau"
+    ],
+    "matched_education": "",
+    "matched_education_list": [],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV correspond partiellement à l'offre d'emploi, car le candidat possède certaines compétences requises comme Power BI, Tableau et Python, mais il manque d'expérience dans le domaine et son objectif est de trouver un stage, ce qui ne correspond pas aux 2-5 ans d'expérience exigés."
+  }
+}

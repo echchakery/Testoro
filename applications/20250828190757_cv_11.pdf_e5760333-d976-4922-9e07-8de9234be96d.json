@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-08-28T19:09:38.059495",
+  "job_id": "e5760333-d976-4922-9e07-8de9234be96d",
+  "resume_file": "20250828190757_cv_11.pdf",
+  "original_filename": "cv_11.pdf",
+  "match_score": {
+    "file": "20250828190757_cv_11.pdf",
+    "summary": "Hakim Abdelhakim, , Casablanca, Amyarabdelhakim@gmail.com, +33 6.43.62.91.98. Expérience professionnelle:  - Service Pole Formation, Sanofi l Aramon, France - Service Pilotage du Systeme d'Information de l UNIE (EDF l Paris, France) - Stage 1 mois, Ministere de la Sante l Casabanca, Maroc (Cisco) - Service Industriel, OCP SA l El-Jadida, Morocco (Certificats CCNA 1,2 et 3, participer au deploiement de carnet sante famille Odoo) - Développement d'une application maison de gestion d URLs pour le departement digital (MERN + Docker) - Mise en place du protocole HTTPS sur un serveur interne (LMS Aramon) - Gestion et amelioration de fonctionnalites sur une application existante en PHP (Power BI) - Permis B (Data Scientiste) - Participation avec les equipes de la plateforme LMS Sanofi (Data scientiste) Formation:  1. Diplôme d'Ingénieurs Generalistes (DEUG) en ligne (2022-2024) 2. Licence en l'ingénierie et de la sécurité (SIG) (2020-2021) 3. Certificat en CCNA (1, 2, 3, 4, 5, 6, 7, 8, 9) Langues: parlées : - Anglais - Français - Arabe - Java - CAMELEON - KIBANA - Toeic B2 - Delf - B2 Power BI - Demandes clients - Data Analyste - CERTIFICATS - Service informatique et reseau (2019) - Ministère de l'assistance aux utilisateurs de la niveau 2 (YNOV, Paris et Aix, France, En cours) - Certification numerique responsable avec téléphones (OCP SA, L El-jadida) Projets réalisés:  - **Mastere Expert en Digitalisation des parcours de prise de connaissance et instructions des 12 departements du site selon le projet role base iLEARN** : Digitaliser les processus de qualification sur la departement de production et logistique. - **Gestion des tickets de support utilisateur** : Améliorer la gestion et la suivi automatique en temps-reel des donnees de formation et de formation.",
+    "semantic": 0.27129754424095154,
+    "skills": 0.0,
+    "experience": 0.0,
+    "education": 0.4,
+    "language": 1.0,
+    "llama": 0.1,
+    "llama_expl": "Le CV ne correspond pas à l'offre d'emploi d'aide comptable, car les compétences et expériences présentées sont principalement liées à l'informatique, au développement de logiciels et à la gestion de projets, sans mention de compétences comptables ou financières.",
+    "final": 0.1,
+    "classification": "Non classé",
+    "original_filename": "cv_11.pdf",
+    "matched_experience_domains": [],
+    "matched_skills": [],
+    "matched_languages": [
+      "ar",
+      "en",
+      "fr"
+    ]
+  },
+  "match_details": {
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "languages_str": "ar,en,fr",
+    "matched_skills": "",
+    "matched_skills_list": [],
+    "matched_education": "phd:CONTACTS Conception et mise en œuvre de l'architecture d'une nouvelle application bibliotheque LMS Aramon conforme aux exigences de cybersecurite de Sanofi. +33 6.43.62.91.98 Developpement et mise en production d'une application maison de gestion d'URLs pour le departement digital (MERN + Docker). Amyarabdelhakim@gmail.com Mise en place du protocole HTTPS sur un serveur interne. HakimAmyar.com Rajout et amelioration de fonctionnalites sur une application existante en PHP. Permis B Gestion et amelioration de la plateforme LMS Sanofi, en collaboration avec les equipes Mobilite Internationale d'administration. Participation a l'amelioration de l'experience utilisateur des tablettes sur site, en collaboration avec les equipes de digital. FORMATION Encadrement et formation des equipes sur de nouveaux processus. Proposition et mise en place d'un lien entre la plateforme iLEARN et Power BI pour un suivi automatique en temps reel des donnees de formation (Data scientiste). Mastere Expert en Digitalisation des parcours de prise de connaissance et instructions des 12 departements du site selon le projet role base iLEARN. developpement Logiciel, Mobile Digitaliser les processus de qualification sur departement Production et logistique. & IOT Gestion des tickets de support utilisateurs. YNOV, Paris et Aix, France En cours, fin octobre",
+    "matched_education_list": [
+      {
+        "degree": "phd",
+        "field": "CONTACTS Conception et mise en œuvre de l'architecture d'une nouvelle application bibliotheque LMS Aramon conforme aux exigences de cybersecurite de Sanofi. +33 6.43.62.91.98 Developpement et mise en production d'une application maison de gestion d'URLs pour le departement digital (MERN + Docker). Amyarabdelhakim@gmail.com Mise en place du protocole HTTPS sur un serveur interne. HakimAmyar.com Rajout et amelioration de fonctionnalites sur une application existante en PHP. Permis B Gestion et amelioration de la plateforme LMS Sanofi, en collaboration avec les equipes Mobilite Internationale d'administration. Participation a l'amelioration de l'experience utilisateur des tablettes sur site, en collaboration avec les equipes de digital. FORMATION Encadrement et formation des equipes sur de nouveaux processus. Proposition et mise en place d'un lien entre la plateforme iLEARN et Power BI pour un suivi automatique en temps reel des donnees de formation (Data scientiste). Mastere Expert en Digitalisation des parcours de prise de connaissance et instructions des 12 departements du site selon le projet role base iLEARN. developpement Logiciel, Mobile Digitaliser les processus de qualification sur departement Production et logistique. & IOT Gestion des tickets de support utilisateurs. YNOV, Paris et Aix, France En cours, fin octobre",
+        "year": [
+          "2024"
+        ]
+      }
+    ],
+    "matched_experience_domains": [],
+    "total_relevant_years": 0.0,
+    "llama_expl": "Le CV ne correspond pas à l'offre d'emploi d'aide comptable, car les compétences et expériences présentées sont principalement liées à l'informatique, au développement de logiciels et à la gestion de projets, sans mention de compétences comptables ou financières."
+  }
+}

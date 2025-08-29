@@ -1,0 +1,26 @@
+{
+  "job_id": "8271a57c-c936-45d2-83b9-6eeb556b8e1b",
+  "job_title": "Commercial Itin\u00e9rant H/F \u2013 Secteur B2B \u2013 Casablanca et Grand Casablanca",
+  "description": "En tant que Commercial Itin\u00e9rant, vous serez le garant du d\u00e9veloppement du chiffre d\u2019affaires sur votre secteur g\u00e9ographique. Vous contribuerez \u00e0 la prospection, \u00e0 la fid\u00e9lisation et \u00e0 la mont\u00e9e en gamme de notre portefeuille clients (PME, grandes enseignes, distributeurs).\n\n\ud83d\udee0\ufe0f Missions principales\nProspection et d\u00e9veloppement\n\nIdentifier et qualifier de nouveaux prospects (visites, phoning, r\u00e9seaux professionnels).\n\nPr\u00e9senter notre offre de produits/services et n\u00e9gocier les conditions commerciales.\n\nGestion de portefeuille\n\nAssurer le suivi r\u00e9gulier et le conseil aupr\u00e8s des clients existants.\n\nProposer des offres adapt\u00e9es et des actions de cross-sell / up-sell.\n\nAtteinte des objectifs\n\nR\u00e9aliser votre objectif mensuel/annuel de chiffre d\u2019affaires et de marge.\n\nReporter vos r\u00e9sultats et votre activit\u00e9 dans l\u2019outil CRM (p. ex. : Salesforce, Pipedrive).\n\nVeille concurrentielle et march\u00e9\n\nRemonter les tendances, les demandes \u00e9mergentes et les actions de la concurrence.\n\nProposer des plans d\u2019action pour optimiser notre positionnement.\n\n\ud83c\udfaf Profil recherch\u00e9\nFormation : Bac + 2 \u00e0 Bac + 5 (Commerce, Marketing, Gestion).\n\nExp\u00e9rience : 1 \u00e0 3 ans minimum en prospection B2B ou distribution.\n\nLangues : Fran\u00e7ais courant (obligatoire), Anglais professionnel (atout).\n\nComp\u00e9tences techniques :\n\nMa\u00eetrise des techniques de vente et de n\u00e9gociation.\n\nExp\u00e9rience sur CRM (Salesforce, HubSpot\u2026) & suite Office (Excel avanc\u00e9).\n\nQualit\u00e9s personnelles :\n\nDynamisme, sens du relationnel et de la persuasion.\n\nAutonomie, rigueur et sens de l\u2019organisation.\n\nGo\u00fbt du challenge et capacit\u00e9 \u00e0 travailler en itin\u00e9rance.",
+  "required_languages": [
+    "fr",
+    "en"
+  ],
+  "required_degree": "master",
+  "preferred_fields": [
+    "commerce",
+    "marketing",
+    "gestion","data science"
+  ],
+  "min_experience_years": 1,
+  "max_experience_years": 3,
+  "required_skills": [
+    "excel",
+    "crm",
+    "negotiation",
+    "techniques de vente",
+    "python",
+    "sql"
+  ],
+  "created_at": "2025-08-07T12:49:01.611453"
+}
