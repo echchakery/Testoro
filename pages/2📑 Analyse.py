@@ -10,6 +10,238 @@ import zipfile
 import pandas as pd
 from typing import Any
 from datetime import datetime
+import streamlit as st
+# pages/2_🧑_Espace_Candidat.py
+
+from resume_matcher_app import main  # Ton module de matching
+import streamlit as st
+import os
+import json
+import uuid
+import tempfile
+import re
+import zipfile
+import pandas as pd
+from typing import Any
+from datetime import datetime
+
+# ----------------------------------------------------
+# 🔹 Fonctions utilitaires
+# ----------------------------------------------------
+
+def _safe_filename(name: str) -> str:
+    """Sanitize filename but keep extension."""
+    name = os.path.basename(name or "uploaded")
+    parts = name.split(".")
+    if len(parts) > 1:
+        ext = parts[-1]
+        base = ".".join(parts[:-1])
+        base = re.sub(r"[^A-Za-z0-9\-_]", "_", base)
+        ext = re.sub(r"[^A-Za-z0-9]", "", ext)
+        safe = f"{base[:150]}.{ext}"
+    else:
+        safe = re.sub(r"[^A-Za-z0-9\-_\.]", "_", name)[:200]
+    return safe
+
+
+def safe_save_uploaded_file(uploaded_file, out_dir="candidates") -> str:
+    """Sauvegarde sécurisée d'un fichier uploadé (conserve nom d'origine, ajoute suffixe si collision)."""
+    os.makedirs(out_dir, exist_ok=True)
+    safe_name = _safe_filename(uploaded_file.name)
+
+    base, ext = os.path.splitext(safe_name)
+    dest = os.path.join(out_dir, safe_name)
+
+    # Vérifie si le fichier existe déjà → ajoute suffixe _1, _2, ...
+    counter = 1
+    while os.path.exists(dest):
+        dest = os.path.join(out_dir, f"{base}_{counter}{ext}")
+        counter += 1
+
+    tmp_path = None
+    try:
+        fd, tmp_path = tempfile.mkstemp(prefix="upload_", dir=out_dir)
+        os.close(fd)
+        with open(tmp_path, "wb") as tmpf:
+            try:
+                tmpf.write(uploaded_file.getbuffer())
+            except AttributeError:
+                tmpf.write(uploaded_file.read())
+        os.replace(tmp_path, dest)
+        return dest
+    finally:
+        if tmp_path and os.path.exists(tmp_path):
+            try:
+                os.remove(tmp_path)
+            except:
+                pass
+
+
+def handle_uploaded_file(uploaded_file, out_dir="candidates"):
+    """Retourne une liste de fichiers sauvegardés (simple ou ZIP)."""
+    saved_files = []
+
+    if uploaded_file.name.lower().endswith(".zip"):
+        # --- Si c'est une archive ZIP ---
+        with tempfile.TemporaryDirectory() as tmpdir:
+            zip_path = os.path.join(tmpdir, uploaded_file.name)
+            with open(zip_path, "wb") as f:
+                f.write(uploaded_file.read())
+
+            with zipfile.ZipFile(zip_path, "r") as zip_ref:
+                for member in zip_ref.namelist():
+                    if member.lower().endswith((".pdf", ".docx", ".txt", ".jpg", ".jpeg", ".png")):
+                        extracted = zip_ref.extract(member, tmpdir)
+                        with open(extracted, "rb") as f_in:
+                            class FakeUpload:
+                                def __init__(self, name, data):
+                                    self.name = name
+                                    self._data = data
+                                def read(self): return self._data
+                            fake_file = FakeUpload(os.path.basename(member), f_in.read())
+                            dest = safe_save_uploaded_file(fake_file, out_dir)
+                            saved_files.append(os.path.basename(dest))
+    else:
+        # --- Fichier simple ---
+        dest = safe_save_uploaded_file(uploaded_file, out_dir)
+        saved_files.append(os.path.basename(dest))
+
+    return saved_files
+
+
+def atomic_write_json(obj, path, encoding="utf-8", ensure_ascii=False, indent=2):
+    """Écriture JSON atomique (sécurisée)."""
+    d = os.path.dirname(path) or "."
+    os.makedirs(d, exist_ok=True)
+    fd, tmp_path = tempfile.mkstemp(prefix="tmp_json_", dir=d)
+    os.close(fd)
+    try:
+        with open(tmp_path, "w", encoding=encoding) as f:
+            json.dump(obj, f, ensure_ascii=ensure_ascii, indent=indent)
+        os.replace(tmp_path, path)
+    finally:
+        if os.path.exists(tmp_path):
+            try: os.remove(tmp_path)
+            except: pass
+
+
+def _to_jsonable(x: Any):
+    """Convertit les types Python/numpy/pandas en JSON-compatible."""
+    import numpy as _np
+    if x is None:
+        return None
+    if isinstance(x, datetime):
+        return x.isoformat()
+    if _np is not None and isinstance(x, (_np.integer,)):
+        return int(x)
+    if _np is not None and isinstance(x, (_np.floating,)):
+        return float(x)
+    if isinstance(x, (str, int, float, bool)):
+        return x
+    if isinstance(x, (list, tuple, set)):
+        return [_to_jsonable(i) for i in x]
+    if isinstance(x, dict):
+        return {str(k): _to_jsonable(v) for k, v in x.items()}
+    try:
+        return x.tolist()
+    except Exception:
+        return str(x)
+
+
+# ----------------------------------------------------
+# 🔹 Fonction principale de rendu
+# ----------------------------------------------------
+def render():
+    st.set_page_config(layout="wide")
+    st.title("📑 Analyse Automatique des CVs")
+
+    # --- Charger les offres d’emploi ---
+    JOB_OFFERS_DIR = "job_offers"
+    job_files = sorted(os.listdir(JOB_OFFERS_DIR)) if os.path.exists(JOB_OFFERS_DIR) else []
+
+    if not job_files:
+        st.info("Aucune offre disponible pour le moment.")
+        return
+
+    for file in job_files:
+        try:
+            with open(os.path.join(JOB_OFFERS_DIR, file), encoding="utf-8") as f:
+                job = json.load(f)
+        except Exception as e:
+            st.error(f"Impossible de lire l'offre {file}: {e}")
+            continue
+
+        # --- Affichage d'une offre ---
+        with st.expander(f"📄 Offre : {job.get('job_title', 'Titre non spécifié')}"):
+            st.write((job.get("description") or "")[:300] + "...")
+            st.markdown(f"""
+            - 🎓 Diplôme requis : **{job.get('required_degree','non spécifié')}**
+            - 📚 Domaines préférés : {', '.join(job.get('preferred_fields', []))}
+            - 📚 Domaines d'éxperience : {', '.join(job.get('EXP job', []))}
+            - 🌐 Langues : {", ".join(job.get('required_languages', []))}
+            - 🛠️ Compétences : {", ".join(job.get('required_skills', []))}
+            - 🔢 Expérience : {job.get('min_experience_years', 0)} à {job.get('max_experience_years', 0)} ans
+            """)
+
+            # --- Upload du CV ---
+            with st.form(f"apply_{job.get('job_id', file)}"):
+                uploaded_cv = st.file_uploader(
+                    "📎 Déposez votre CV (PDF, DOCX, TXT, JPG, PNG) ou un ZIP de plusieurs CVs",
+                    type=["pdf", "docx", "txt", "jpg", "png", "zip"],
+                    key=job.get('job_id', file)
+                )
+
+                submit = st.form_submit_button("📩 Postuler")
+
+                if submit and uploaded_cv:
+                    try:
+                        saved_files = handle_uploaded_file(uploaded_cv, out_dir="candidates")
+                        st.success(f"CV(s) sauvegardé(s): {', '.join(saved_files)}")
+                    except Exception as e:
+                        st.error(f"Erreur lors de la sauvegarde des CVs: {e}")
+                        continue
+
+                    # --- Matching ---
+                    try:
+                        summary_df, detail_df = main("candidates", os.path.join(JOB_OFFERS_DIR, file), saved_files)
+                    except Exception as e:
+                        st.error(f"Erreur lors du matching: {e}")
+                        import traceback; st.text(traceback.format_exc())
+                        continue
+
+                    # --- Sauvegarde et affichage des résultats ---
+                    for saved_basename in saved_files:
+                        summary = {"final": None}
+                        try:
+                            summary = summary_df.loc[summary_df["file"] == saved_basename].to_dict(orient="records")[0]
+                        except Exception:
+                            pass
+
+                        summary["classification"] = summary.get("predicted_class", "Non classé")
+                        summary["original_filename"] = uploaded_cv.name if len(saved_files) == 1 else saved_basename
+
+                        match_data = {
+                            "timestamp": datetime.now().isoformat(),
+                            "job_id": job.get("job_id"),
+                            "resume_file": saved_basename,
+                            "original_filename": summary["original_filename"],
+                            "match_score": summary
+                        }
+
+                        try:
+                            os.makedirs("applications", exist_ok=True)
+                            app_file = os.path.join("applications", f"{saved_basename}_{job.get('job_id', file)}.json")
+                            atomic_write_json(_to_jsonable(match_data), app_file, ensure_ascii=False, indent=2)
+                            st.success(f"✅ Candidature envoyée avec succès pour {saved_basename}")
+                        except Exception as e:
+                            st.error(f"Erreur lors de l'enregistrement de la candidature: {e}")
+                            import traceback; st.text(traceback.format_exc())
+
+"""
+def render():
+    st.title("📑 Analyse")
+    st.write("Contenu d'analyse ici.")
+    # ...
 
 st.set_page_config(layout="wide")
 st.title("📑 Analyse Automatique des CVs:")
@@ -27,7 +259,6 @@ from datetime import datetime
 # Helpers for safe IO
 # -----------------------
 def _safe_filename(name: str) -> str:
-    """Sanitize filename but keep extension."""
     name = os.path.basename(name or "uploaded")
     parts = name.split(".")
     if len(parts) > 1:
@@ -63,7 +294,7 @@ def safe_save_uploaded_file(uploaded_file, out_dir="candidates") -> str:
                 os.remove(tmp_path)
             except:
                 pass
-"""
+#hnacomment
 import os
 import uuid
 import tempfile
@@ -97,12 +328,11 @@ def safe_save_uploaded_file(uploaded_file, out_dir="candidates") -> str:
                 os.remove(tmp_path)
             except:
                 pass
-"""
+#hnacomment
 # -----------------------
 # Handle single upload or ZIP
 # -----------------------
 def handle_uploaded_file(uploaded_file, out_dir="candidates"):
-    """Return list of saved filenames for single file or ZIP."""
     saved_files = []
 
     if uploaded_file.name.lower().endswith(".zip"):
@@ -133,7 +363,6 @@ def handle_uploaded_file(uploaded_file, out_dir="candidates"):
     return saved_files
 
 def atomic_write_json(obj, path, encoding="utf-8", ensure_ascii=False, indent=2):
-    """Write JSON atomically."""
     d = os.path.dirname(path) or "."
     os.makedirs(d, exist_ok=True)
     fd, tmp_path = tempfile.mkstemp(prefix="tmp_json_", dir=d)
@@ -148,7 +377,6 @@ def atomic_write_json(obj, path, encoding="utf-8", ensure_ascii=False, indent=2)
             except: pass
 
 def _to_jsonable(x: Any):
-    """Make Python/numpy/pandas types JSON safe."""
     import numpy as _np
     if x is None:
         return None
@@ -188,14 +416,14 @@ else:
 
         with st.expander(f"📄 Offre : {job.get('job_title', 'Titre non spécifié')}"):
             st.write((job.get("description") or "")[:300] + "...")
-            st.markdown(f"""
+            st.markdown(f
             - 🎓 Diplôme requis : **{job.get('required_degree','non spécifié')}**
             - 📚 Domaines préférés : {', '.join(job.get('preferred_fields', []))}
             - 📚 Domaines d'éxperience : {', '.join(job.get('EXP job', []))}
             - 🌐 Langues : {", ".join(job.get('required_languages', []))}
             - 🛠️ Compétences : {", ".join(job.get('required_skills', []))}
             - 🔢 Expérience : {job.get('min_experience_years', 0)} à {job.get('max_experience_years', 0)} ans
-            """)
+           )
 
             # -----------------------
             # Upload CV or ZIP
@@ -336,3 +564,4 @@ else:
                             st.error(f"Erreur lors de l'enregistrement de la candidature: {e}")
                             import traceback; st.text(traceback.format_exc())
 
+"""
