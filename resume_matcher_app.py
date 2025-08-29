@@ -43,7 +43,7 @@ import time
 from PIL import Image
 from docling.document_converter import DocumentConverter
 import pytesseract
-MODEL_PATH = 'bart'
+MODEL_PATH = 'fine_tuned_bart2F'
 CLASSIFIER_DIR = "savedmodel"              # Path to your classifier
 TRANSLATION_MODEL = "Helsinki-NLP/opus-mt-fr-en"  # French -> English
 
@@ -229,6 +229,9 @@ def process_file(file_path):
 
         cleaned_text = nettoyer_texte(extracted_text)
     return cleaned_text
+from deep_translator import GoogleTranslator
+import logging
+
 def translate_text(text, source_lang='en', target_lang='fr'):
     """
     Traduit un texte donné de la langue source à la langue cible.
@@ -1210,6 +1213,7 @@ def extract_text_from_docx(path):
 
     return "\n".join(t.strip() for t in text if t.strip())
 """
+"""
 def nettoyer_texte(txt):
     allowed_chars = r"A-Za-zÀ-ÖØ-öø-ÿ0-9\s\.,;:!?\(\)\-\+\/#@&_%"  
     txt = re.sub(rf"[^{allowed_chars}]", " ", txt)
@@ -1218,6 +1222,7 @@ def nettoyer_texte(txt):
 
     txt = re.sub(r"\s+", " ", txt).strip()
     return txt
+"""
 """
 # ----------------- Unified extractor -----------------
 def extract_text_from_file(file_path: str, use_easyocr=False) -> str:
@@ -2091,7 +2096,7 @@ def main(resume_dir: str, job_input, file_list=None):
         except Exception as e:
             log.exception("generate_summary failed for %s: %s", fn, e)
             resume_summary = ""
-
+        print(resume_summary)
         # languages & skills
         try:
             lang_sc, langs = score_language(txt or "", set(job.get("required_languages", [])))
@@ -2252,7 +2257,7 @@ def main(resume_dir: str, job_input, file_list=None):
 # --- append to summary
         summary_rows.append({
           "file": fn,
-          "summary": rsummary,
+          "summary": resume_summary,
           "semantic": float(sem_sc),
           "skills": float(skill_sc),
           "experience": float(exp_sc),
