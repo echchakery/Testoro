@@ -1,14 +1,22 @@
-# Streamlit (and its compatible rich version)
+# Streamlit (with compatible rich version)
 streamlit==1.27.0
+rich>=10.14.0,<14
 
-# Other dependencies
+# Data and ML
 numpy>=1.23
 pandas>=2.0
 matplotlib>=3.7
 seaborn>=0.12
+
+# Utilities
 requests>=2.31
 Pillow>=10.0
 python-dotenv>=1.0.0
 
-# Optional: development/debugging
-# rich>=10.14.0,<14  # <- matches Streamlit's requirement
+# Optional: IPython / Jupyter for debugging (if needed)
+ipython>=9.2.0
+jupyter-client>=8.6.3
+jupyter-core>=5.7.2
+
+# Linux-safe, Windows-only packages conditional
+pywin32==310; sys_platform == "win32"
