@@ -17,15 +17,3 @@ python-dotenv==1.1.1
 requests>=2.31,<3
 click==8.2.1
 tqdm==4.67.1
-
-# Optional ML / AI
-torch==2.2.0
-transformers==4.55.2
-sentence-transformers==5.1.0
-openai-whisper==20250625
-
-# Extras
-altair==5.5.0
-plotly==6.3.0
-pydantic==2.11.7
-pydantic-settings==2.10.1
