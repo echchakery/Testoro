@@ -1,7 +1,9 @@
 streamlit==1.27.0
 pillow<10,>=9.5.0
 rich<14,>=10.14.0
+regex==2025.8.15
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl
 spacy==3.8.7
 numpy==1.26.4
+
