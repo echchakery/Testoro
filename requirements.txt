@@ -1,19 +1,7 @@
-# Core
 streamlit==1.27.0
-rich>=10.14.0,<14
-pillow>=9.5.0,<10
-numpy>=1.23,<2
-pandas>=2.0,<3
-matplotlib>=3.7,<4
-seaborn>=0.12,<1
-
-# NLP
+pillow<10,>=9.5.0
+rich<14,>=10.14.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl
 spacy==3.8.7
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
-fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl#sha256=7d6ad14cd5078e53147bfbf70fb9d433c6a3865b695fda2657140bbc59a27e29
-
-# Utilities
-python-dotenv==1.1.1
-requests>=2.31,<3
-click==8.2.1
-tqdm==4.67.1
+numpy==1.26.4
