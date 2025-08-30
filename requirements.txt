@@ -1,22 +1,45 @@
-# Streamlit (with compatible rich version)
+# Core dependencies
 streamlit==1.27.0
-rich>=10.14.0,<14
-
-# Data and ML
 numpy>=1.23
 pandas>=2.0
 matplotlib>=3.7
 seaborn>=0.12
+plotly>=6.0
+
+# NLP and AI
+spacy==3.8.7
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl
+transformers==4.55.2
+sentence-transformers==5.1.0
+tiktoken==0.11.0
 
 # Utilities
-requests>=2.31
-Pillow>=10.0
-python-dotenv>=1.0.0
+requests==2.32.4
+python-dotenv==1.1.1
+pillow>=11.0
+pyyaml==6.0.2
+rich>=13.0,<14  # compatible with Streamlit 1.27.0
 
-# Optional: IPython / Jupyter for debugging (if needed)
-ipython>=9.2.0
-jupyter-client>=8.6.3
-jupyter-core>=5.7.2
+# Streamlit extras
+streamlit-audiorec==0.1.3
+streamlit-avatar==0.1.3
+streamlit-camera-input-live==0.2.0
+streamlit-card==1.0.2
+streamlit-embedcode==0.1.2
+streamlit-extras==0.7.6
+streamlit-image-coordinates==0.4.0
+streamlit-keyup==0.3.0
+streamlit-notify==0.3.1
+streamlit-toggle-switch==1.0.2
+streamlit-vertical-slider==2.5.5
+streamlit-faker==0.0.4
 
-# Linux-safe, Windows-only packages conditional
-pywin32==310; sys_platform == "win32"
+# Optional (if you use PDFs, OCR, audio)
+pdfplumber==0.11.7
+pytesseract==0.3.13
+ffmpeg-python==0.2.0
+opencv-python-headless==4.12.0.88
+
+# Fix Linux compatibility
+packaging>=16.8,<24
