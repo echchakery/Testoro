@@ -219,7 +219,7 @@ tomlkit==0.13.3
 # Torch commented out — enable only if you need it and tested
 # torch==2.8.0
 # torchvision==0.23.0
-typer==0.16.0
+typer<0.10.0,>=0.3.0
 typing-inspection==0.4.1
 typing_extensions==4.14.1
 tzdata==2025.2
@@ -233,6 +233,7 @@ weasel==0.3.4
 wheel==0.45.1
 wrapt==1.17.3
 xlsxwriter==3.2.5
+
 
 
 
