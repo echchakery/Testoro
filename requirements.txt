@@ -1,5 +1,27 @@
+
+# Streamlit
+streamlit==1.27.0
+
+# Data and ML
+numpy>=1.23
+pandas>=2.0
+
+# Optional for plots
+matplotlib>=3.7
+seaborn>=0.12
+
+# Utilities
+requests>=2.31
+Pillow>=10.0
+python-dotenv>=1.0.0
+
+# Development / debugging
+rich>=14.0
+
+# Windows-only packages should be conditional
+pywin32==310; sys_platform == "win32"
+
 asttokens==3.0.0
-streamlit==1.27.0  # or latest stable version
 colorama==0.4.6
 comm==0.2.2
 debugpy==1.8.14
@@ -27,5 +49,6 @@ stack-data==0.6.3
 tornado==6.5
 traitlets==5.14.3
 wcwidth==0.2.13
+
 
 
