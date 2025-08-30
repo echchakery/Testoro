@@ -1,12 +1,14 @@
-# Core dependencies
+# Core
 streamlit==1.27.0
+pillow>=9.5.0,<10
+rich>=10.14.0,<14
 numpy>=1.23
 pandas>=2.0
 matplotlib>=3.7
 seaborn>=0.12
 plotly>=6.0
 
-# NLP and AI
+# NLP / AI
 spacy==3.8.7
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl
@@ -17,29 +19,10 @@ tiktoken==0.11.0
 # Utilities
 requests==2.32.4
 python-dotenv==1.1.1
-pillow>=11.0
 pyyaml==6.0.2
-rich>=13.0,<14  # compatible with Streamlit 1.27.0
 
-# Streamlit extras
-streamlit-audiorec==0.1.3
-streamlit-avatar==0.1.3
-streamlit-camera-input-live==0.2.0
-streamlit-card==1.0.2
-streamlit-embedcode==0.1.2
-streamlit-extras==0.7.6
-streamlit-image-coordinates==0.4.0
-streamlit-keyup==0.3.0
-streamlit-notify==0.3.1
-streamlit-toggle-switch==1.0.2
-streamlit-vertical-slider==2.5.5
-streamlit-faker==0.0.4
-
-# Optional (if you use PDFs, OCR, audio)
+# Optional extras
 pdfplumber==0.11.7
 pytesseract==0.3.13
 ffmpeg-python==0.2.0
 opencv-python-headless==4.12.0.88
-
-# Fix Linux compatibility
-packaging>=16.8,<24
